@@ -154,4 +154,38 @@ MariaDB [(none)]> show databases;
 - What is one of the higher-privilege sounding usernames in 'allowed.userlist' that we download from the FTP server? (`admin`)
 - What version of Apache HTTP Server is running on the target host? (`Apache httpd 2.4.41)
 - What switch can we use with Gobuster to specify we are looking for specific filetypes?(`-x`)
-- Which PHP file can we identify with directory brute force that will provide the opportunity to authenticate to the web service? (``)
+- Which PHP file can we identify with directory brute force that will provide the opportunity to authenticate to the web service? (`login.php`)
+  ```bash
+  gobuster dir -u http://10.129.85.115 -w common.txt  -x php    
+===============================================================
+Gobuster v3.5
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.129.85.115
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.5
+[+] Extensions:              php
+[+] Timeout:                 10s
+===============================================================
+2023/12/15 15:29:23 Starting gobuster in directory enumeration mode
+===============================================================
+/assets               (Status: 301) [Size: 315] [--> http://10.129.85.115/assets/]
+Progress: 794 / 3886 (20.43%)[ERROR] 2023/12/15 15:29:47 [!] Get "http://10.129.85.115/album.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+/config.php           (Status: 200) [Size: 0]
+/css                  (Status: 301) [Size: 312] [--> http://10.129.85.115/css/]
+/js                   (Status: 301) [Size: 311] [--> http://10.129.85.115/js/]
+/login.php            (Status: 200) [Size: 1577]
+/logout.php           (Status: 302) [Size: 0] [--> login.php]
+[ERROR] 2023/12/15 15:30:36 [!] Get "http://10.129.85.115/java.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 2448 / 3886 (63.00%)[ERROR] 2023/12/15 15:30:41 [!] Get "http://10.129.85.115/lifestyle": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 3368 / 3886 (86.67%)[ERROR] 2023/12/15 15:30:59 [!] Get "http://10.129.85.115/setting": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 3394 / 3886 (87.34%)[ERROR] 2023/12/15 15:30:59 [!] Get "http://10.129.85.115/shared.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+Progress: 3884 / 3886 (99.95%)
+===============================================================
+2023/12/15 15:31:10 Finished
+===============================================================
+
+```
