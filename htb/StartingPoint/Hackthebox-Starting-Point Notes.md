@@ -195,6 +195,18 @@ Progress: 3884 / 3886 (99.95%)
 ## Responder (Very Easy)
 
 gobuster dir -u    http://10.129.217.142 -w ~/common.txt -x php
-- When visiting the web service using the IP address, what is the domain that we are being redirected to? (`anuka.htb`)
+- When visiting the web service using the IP address, what is the domain that we are being redirected to? (`unika.htb`)
 - Which scripting language is being used on the server to generate webpages? (`php`)
-- What is the name of the URL parameter which is used to load different language versions of the webpage?(``)
+- What is the name of the URL parameter which is used to load different language versions of the webpage?(`page`)
+- Which of the following values for the `page` parameter would be an example of exploiting a Local File Include (LFI) vulnerability: "french.html", "//10.10.14.6/somefile", "../../../../../../../../windows/system32/drivers/etc/hosts", "minikatz.exe"
+```
+../../../../../../../../windows/system32/drivers/etc/hosts
+```
+- Which of the following values for the `page` parameter would be an example of exploiting a Remote File Include (RFI) vulnerability: "french.html", "//10.10.14.6/somefile", "../../../../../../../../windows/system32/drivers/etc/hosts", "minikatz.exe"
+ ```
+ //10.10.14.6/somefile
+```
+
+- What does NTLM stand for? (`New Technology LAN Manager`) 
+- Which flag do we use in the Responder utility to specify the network interface? (`i`)
+- 
