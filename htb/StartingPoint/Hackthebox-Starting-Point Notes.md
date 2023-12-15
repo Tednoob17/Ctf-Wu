@@ -189,3 +189,12 @@ Progress: 3884 / 3886 (99.95%)
 ===============================================================
 
 ```
+
+
+## --------------------------------------------------------
+## Responder (Very Easy)
+
+gobuster dir -u    http://10.129.217.142 -w ~/common.txt -x php
+- When visiting the web service using the IP address, what is the domain that we are being redirected to? (`anuka.htb`)
+- Which scripting language is being used on the server to generate webpages? (`php`)
+- What is the name of the URL parameter which is used to load different language versions of the webpage?(``)
