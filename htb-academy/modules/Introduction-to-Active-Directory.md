@@ -163,3 +163,24 @@ Active Directory is arranged in a hierarchical tree structure, with a forest at 
 
 
 
+```plaintext
+
+INLANEFREIGHT.LOCAL/
+├── ADMIN.INLANEFREIGHT.LOCAL
+│   ├── GPOs
+│   └── OU
+│       └── EMPLOYEES
+│           ├── COMPUTERS
+│           │   └── FILE01
+│           ├── GROUPS
+│           │   └── HQ Staff
+│           └── USERS
+│               └── barbara.jones
+├── CORP.INLANEFREIGHT.LOCAL
+└── DEV.INLANEFREIGHT.LOCAL
+
+```
+
+Here we could say that INLANEFREIGHT.LOCAL is the root domain and contains the subdomains (either child or tree root domains) ADMIN.INLANEFREIGHT.LOCAL, CORP.INLANEFREIGHT.LOCAL, and DEV.INLANEFREIGHT.LOCAL as well as the other objects that make up a domain such as users, groups, computers, and more as we will see in detail below. It is common to see multiple domains (or forests) linked together via trust relationships in organizations that perform a lot of acquisitions. It is often quicker and easier to create a trust relationship with another domain/forest than recreate all new users in the current domain. As we will see in later modules, domain trusts can introduce a slew of security issues if not appropriately administered.
+
+![adforest](./img/ad_forest.png)
