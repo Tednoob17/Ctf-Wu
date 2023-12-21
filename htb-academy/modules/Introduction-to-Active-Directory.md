@@ -29,3 +29,11 @@ of objects per domain, and allows the creation of additional domains as an organ
 
 
 ![whyad1](./img/whyad1.png)
+
+It is estimated that around 95% of Fortune 500 companies run Active Directory, making AD a key focus for attackers. A successful attack such as a phish that lands an attacker within the AD environment as a standard domain user would give them enough access to begin mapping out the domain and looking for avenues of attack. As security professionals, we will encounter AD environments of all sizes throughout our careers. It is essential to understand the structure and function of AD to become better informed as both an attacker and a defender.
+
+
+
+
+
+
