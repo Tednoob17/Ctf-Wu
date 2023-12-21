@@ -18,8 +18,11 @@ within a network and gain unauthorized access. AD is essentially a sizeable read
 regardless of their privilege level. A basic AD user account with no added privileges can enumerate most objects within AD. 
 This fact makes it extremely important to properly secure an AD implementation because ANY user account, 
 regardless of their privilege level, can be used to enumerate the domain and hunt for misconfigurations and flaws thoroughly. Also, multiple attacks can be performed with only a standard domain user account, showing the importance of a defense-in-depth strategy and careful planning focusing on security and hardening AD, network segmentation, and least privilege. 
-One example is the noPac attack that was first released in December of 2021.
+One example is the [noPac attack](https://www.secureworks.com/blog/nopac-a-tale-of-two-vulnerabilities-that-could-end-in-ransomware) that was first released in December of 2021.
 
 Active Directory makes information easy to find and use for administrators and users. AD is highly scalable, supports millions 
 of objects per domain, and allows the creation of additional domains as an organization grows.
 
+## Info
+
+- defense-in-depth strategy (Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way.)
