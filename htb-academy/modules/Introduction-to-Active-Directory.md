@@ -154,3 +154,7 @@ Active Directory flaws and misconfigurations can often be used to obtain a footh
 - Group Policy Objects (GPOs)
 - Domain Trusts
 - Access Control Lists (ACLs)
+
+For this reason, we must understand how Active Directory is set up and the basics of administration before attempting to attack it. It's always easier to "break" things if we already know how to build them.
+
+### -----
