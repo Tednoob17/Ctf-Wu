@@ -26,3 +26,6 @@ of objects per domain, and allows the creation of additional domains as an organ
 ## Info
 
 - defense-in-depth strategy (Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way.)
+
+
+![whyad1](./img/whyad1.png)
