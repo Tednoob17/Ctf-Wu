@@ -62,3 +62,9 @@ The release of Windows Server 2003 saw extended functionality and improved admin
 
 - X.500: X.500 is a series of computer networking standards covering electronic directory services. The X.500 series was developed by the Telecommunication Standardization Sector of the International Telecommunication Union (ITU-T).
 
+
+ADFS enables users to access applications across organizational boundaries using a single set of credentials. ADFS uses the claims-based Access Control Authorization model, which attempts to ensure security across applications by identifying users by a set of claims related to their identity, which are packaged into a security token by the identity provider.
+
+The release of Server 2016 brought even more changes to Active Directory, such as the ability to migrate AD environments to the cloud and additional security enhancements such as user access monitoring and Group Managed Service Accounts (gMSA). gMSA offers a more secure way to run specific automated tasks, applications, and services and is often a recommended mitigation against the infamous Kerberoasting attack.
+
+2016 saw a more significant push towards the cloud with the release of Azure AD Connect, which was designed as a single sign-on method for users being migrated to the Microsoft Office 365 environment.
