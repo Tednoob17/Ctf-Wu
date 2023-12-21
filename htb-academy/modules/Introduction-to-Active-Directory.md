@@ -190,3 +190,22 @@ The graphic below shows two forests, INLANEFREIGHT.LOCAL and FREIGHTLOGISTICS.LO
 
 ![ilflog2](./img/ilflog2.png)
 
+### QUestions
+
+
+Questions
+
+Answer the question(s) below to complete this Section and earn cubes!
+
++ 1 What Active Directory structure can contain one or more domains?
+  Forest
+
+
++ 0 True or False; It can be common to see multiple domains linked together by trust relationships?
+  True
+
+
++ 1 Active Directory provides authentication and <____> within a Windows domain environment.
+
+authorization
+
