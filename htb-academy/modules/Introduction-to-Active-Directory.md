@@ -8,7 +8,7 @@
 - 7 hours
 
 
-### Why Active Directory
+## Why Active Directory
 Active Directory (AD) is a directory service for Windows network environments. It is a distributed, hierarchical structure 
 that allows for centralized management of an organization's resources, including users, computers, groups, network devices,
 file shares, group policies, devices, and trusts. AD provides authentication and authorization functions within a Windows domain environment. 
@@ -23,7 +23,7 @@ One example is the [noPac attack](https://www.secureworks.com/blog/nopac-a-tale-
 Active Directory makes information easy to find and use for administrators and users. AD is highly scalable, supports millions 
 of objects per domain, and allows the creation of additional domains as an organization grows.
 
-## Info
+### Info
 
 - defense-in-depth strategy (Defense in depth is a strategy that leverages multiple security measures to protect an organization's assets. The thinking is that if one line of defense is compromised, additional layers exist as a backup to ensure that threats are stopped along the way.)
 
@@ -40,9 +40,25 @@ This module will lay the foundations for starting down the path of enumerating a
 
 
 
-### History of Active Directory
+## History of Active Directory
 
 LDAP, the foundation of Active Directory, was first introduced in RFCs as early as 1971. Active Directory was predated by the X.500 organizational unit concept, which was the earliest version of all directory systems created by Novell and Lotus and released in 1993 as Novell Directory Services.
 
 Active Directory was first introduced in the mid-'90s but did not become part of the Windows operating system until the release of Windows Server 2000. Microsoft first attempted to provide directory services in 1990 with the release of Windows NT 3.0. This operating system combined features of the [LAN](https://en.wikipedia.org/wiki/LAN_Manager) Manager protocol and the [OS/2](https://en.wikipedia.org/wiki/OS/2) operating systems, which Microsoft created initially along with IBM lead by [Ed Iacobucci](https://en.wikipedia.org/wiki/Ed_Iacobucci) who also led the design of [IBM DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS) and later co-founded Citrix Systems. The NT operating system evolved throughout the 90s, adapting protocols such as LDAP and Kerberos with Microsoft's proprietary elements. The first beta release of Active Directory was in 1997.
+
+The release of Windows Server 2003 saw extended functionality and improved administration and added the **Forest** feature, which allows sysadmins to create "containers" of separate domains, users, computers, and other objects all under the same umbrella. Active [Directory Federation Services (ADFS)](https://en.wikipedia.org/wiki/Active_Directory_Federation_Services) was introduced in Server 2008 to provide Single Sign-On (SSO) to systems and applications for users on Windows Server operating systems. ADFS made it simpler and more streamlined for users to sign into applications and systems, not on their same LAN.
+
+### Info
+
+- LDAP :The Lightweight Directory Access Protocol (LDAP /ˈɛldæp/) is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network.|st à l'origine un protocole permettant l'interrogation et la modification des services d'annuaire (il est une évolution du protocole DAP).
+
+- ADFS :Active Directory Federation Services (AD FS), a software component developed by Microsoft, can run on Windows Server operating systems to provide users with single sign-on access to systems and applications located across organizational boundaries. |Active Directory Federation Services est un composant de Windows Server pouvant être installé sur les serveurs Windows afin de faciliter l'accès aux utilisateurs, aux systèmes et applications.
+
+- OS/2 :OS/2 (Operating System/2) is a series of computer operating systems, initially created by Microsoft and IBM under the leadership of IBM software designer Ed Iacobucci. As a result of a feud between the two companies over how to position OS/2 relative to Microsoft's new Windows 3.1 operating environment, the two companies severed the relationship in 1992 and OS/2 development fell to IBM exclusively.
+
+- IBM DOS : Developed by Microsoft, it was also sold by that company as MS-DOS. Both operating systems were identical or almost identical until 1993, when IBM began selling PC DOS 6.1 with new features.
+
+- RFC :  is a publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the Internet Engineering Task Force (IETF).
+
+- X.500: X.500 is a series of computer networking standards covering electronic directory services. The X.500 series was developed by the Telecommunication Standardization Sector of the International Telecommunication Union (ITU-T).
 
