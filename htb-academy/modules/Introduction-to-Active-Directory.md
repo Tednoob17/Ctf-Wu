@@ -207,5 +207,19 @@ Answer the question(s) below to complete this Section and earn cubes!
 
 + 1 Active Directory provides authentication and <____> within a Windows domain environment.
 
-authorization
+  authorization
+
+## Active Directory Terminology
+
+Before we go any further, let's take a step back and define some key terminology that will be used throughout this module and in general when dealing with Active Directory in any capacity.
+
+
+**Object**
+
+An object can be defined as ANY resource present within an Active Directory environment such as OUs, printers, users, domain controllers, etc.
+
+**Attributes**
+
+Every object in Active Directory has an associated set of attributes used to define characteristics of the given object. A computer object contains attributes such as the hostname and DNS name. All attributes in AD have an associated LDAP name that can be used when performing LDAP queries, such as displayName for Full Name and given name for First Name.
+
 
