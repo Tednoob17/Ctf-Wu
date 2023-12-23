@@ -254,7 +254,7 @@ A security identifier, or SID is used as a unique identifier for a security prin
 
 **Distinguished Name (DN)**
 
-A Distinguished Name (DN) describes the full path to an object in AD (such as cn=bjones, ou=IT, ou=Employees, dc=inlanefreight, dc=local). In this example, the user bjones works in the IT department of the company Inlanefreight, and his account is created in an Organizational Unit (OU) that holds accounts for company employees. The Common Name (CN) bjones is just one way the user object could be searched for or accessed within the domain.
+A `Distinguished Name` (DN) describes the `full path` to an `object` in `AD` (such as `cn=bjones`, `ou=IT`, `ou=Employees`, `dc=inlanefreight`, `dc=local`). In this example, the user bjones works in the IT department of the company Inlanefreight, and his account is created in an Organizational Unit (OU) that holds accounts for company employees. The Common Name (CN) bjones is just one way the user obje`ct` could be searched for or accessed within the domain.
 
 **Relative Distinguished Name (RDN)**
 Relative Distinguished Name (RDN)
