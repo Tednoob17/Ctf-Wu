@@ -259,6 +259,6 @@ A Distinguished Name (DN) describes the full path to an object in AD (such as cn
 **Relative Distinguished Name (RDN)**
 Relative Distinguished Name (RDN)
 
-A Relative Distinguished Name (RDN) is a single component of the Distinguished Name that identifies the object as unique from other objects at the current level in the naming hierarchy. In our example, bjones is the Relative Distinguished Name of the object. AD does not allow two objects with the same name under the same parent container, but there can be two objects with the same RDNs that are still unique in the domain because they have different DNs. For example, the object cn=bjones,dc=dev,dc=inlanefreight,dc=local would be recognized as different from cn=bjones,dc=inlanefreight,dc=local.
+A `Relative Distinguished Name` (RDN) is a single component of the `Distinguished Name` that `identifies the object` as `unique` from other `objects` at the current level in the `naming hierarchy`. In our example, `bjones` is the `Relative Distinguished Name` of the `object`. `AD` does `not allow` two `objects` with the same `name` under the same `parent container`, but there can be `two objects` with the same `RDNs` that are still `unique` in the `domain` because they have different `DNs`. For example, the `object` `cn=bjones`,`dc=dev`,`dc=inlanefreight`,`dc=local` would be recognized as different from `cn=bjones`,`dc=inlanefreight`,`dc=local`.
 
 
