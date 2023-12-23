@@ -10,8 +10,8 @@
 
 ## Why Active Directory
 `Active Directory` (AD) is a directory service for `Windows network` environments. It is a distributed, hierarchical structure 
-that allows for centralized management of an organization's resources, including users, computers, groups, network devices,
-file shares, group policies, devices, and trusts. AD provides authentication and authorization functions within a Windows domain environment. 
+that allows for centralized management of an organization's resources, including `users`, `computers`, `groups`, `network devices`,
+`file shares`, `group policies`, `devices`, and `trusts`. `AD` provides `authentication` and `authorization` functions within a Windows domain environment. 
 It has come under increasing attack in recent years. It is designed to be backward-compatible, and many features are arguably not
 "secure by default," and it can be easily misconfigured. This weakness can be leveraged to move laterally and vertically 
 within a network and gain unauthorized access. AD is essentially a sizeable read-only database accessible to all users within the domain, 
@@ -256,4 +256,10 @@ A security identifier, or SID is used as a unique identifier for a security prin
 **Distinguished Name (DN)**
 
 A Distinguished Name (DN) describes the full path to an object in AD (such as cn=bjones, ou=IT, ou=Employees, dc=inlanefreight, dc=local). In this example, the user bjones works in the IT department of the company Inlanefreight, and his account is created in an Organizational Unit (OU) that holds accounts for company employees. The Common Name (CN) bjones is just one way the user object could be searched for or accessed within the domain.
+
+**Relative Distinguished Name (RDN)**
+Relative Distinguished Name (RDN)
+
+A Relative Distinguished Name (RDN) is a single component of the Distinguished Name that identifies the object as unique from other objects at the current level in the naming hierarchy. In our example, bjones is the Relative Distinguished Name of the object. AD does not allow two objects with the same name under the same parent container, but there can be two objects with the same RDNs that are still unique in the domain because they have different DNs. For example, the object cn=bjones,dc=dev,dc=inlanefreight,dc=local would be recognized as different from cn=bjones,dc=inlanefreight,dc=local.
+
 
