@@ -27,4 +27,12 @@ Ex: https://google.com/www.google.com/search?q=chat
 
 **URI** : Uniform Ressources Idntifier (Its a generic identificator for one ressource in internet) He can identify one ressources by differents ways (including URL utilisation)
 
-The difference with `URL` is that `URI` can identify one ressource in using a name or uniq addresse even if the ressource is not available online
+The difference with `URL` is that `URI` can identify one ressource in using a name or uniq addresse even if the ressource is not available online but its opposite of a `URL`
+
+Ex : mailto:john@example.com (It's not URL ,but URI) |The name of one book can be used like if its URI because this book be not online
+
+All `URL` is a `URL` but reciprocal is false
+
+
+
+**OSI and HTTP**
