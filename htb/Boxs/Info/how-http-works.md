@@ -36,3 +36,15 @@ All `URL` is a `URL` but reciprocal is false
 
 
 **OSI and HTTP**
+
+OSI : Open System Interconnexion (Reference modal that used computers to communicate)
+
+HTTP is in 7th layers ,99.99% HTTP use TCP/IP protocol (who is in 4th layer (Transport))
+TCP/IP define how data is formated and how he its send
+
+**HTTP VERB**
+
+- GET : Make an request into distant server
+- POST : send data to server for make a new resources
+- PUT : For reload/update a resource already existing
+- DELETE : For delete server resource
