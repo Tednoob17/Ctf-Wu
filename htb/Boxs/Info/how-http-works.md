@@ -24,3 +24,7 @@ Ex: https://google.com/www.google.com/search?q=chat
 2- Domain name
 3- path
 4- parameter
+
+**URI** : Uniform Ressources Idntifier (Its a generic identificator for one ressource in internet) He can identify one ressources by differents ways (including URL utilisation)
+
+The difference with `URL` is that `URI` can identify one ressource in using a name or uniq addresse even if the ressource is not available online
