@@ -382,10 +382,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. What network protocol helps data get to the right place by determining the MAC address of the next router or device on its path ? 
-	Address Resolution Protocol (ARP)
+	Address Resolution Protocol (`ARP`)
 
+2. Which of the following statements accurately describe wireless protocols? Select three answers
 
-
+	- WPA is a wireless security protocol pertaining to connecting to the internet.
+	- The Institute of Electrical and Electronics Engineers maintains `Wi-Fi` standards.
+	- The set of standards `IEEE 802.11`  is also refered to as `Wi-Fi` 
 
 
 
