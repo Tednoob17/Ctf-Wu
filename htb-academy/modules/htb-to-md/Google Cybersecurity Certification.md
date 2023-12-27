@@ -244,7 +244,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 9. A security analyst perform an internal security audit.They determine that the organization needs to install surveillance cameras at various store locations.What are they working to establish ? 
 	Physical controls
 
-
+10.  What information is tipically communicated to stakeholders after completion of an internal security audit ? Select three answers.
+	- Existing risks that need to be addressed now or in the future.
+	- Strategies for improving security posture .
+	- A summary of the goals .
 
 
 
