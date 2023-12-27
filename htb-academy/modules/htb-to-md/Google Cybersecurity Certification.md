@@ -283,8 +283,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
    organizational's log data to provide security information and alerts in real-time.
 	Self-hosted
 
-7. 
-
+7. Which of the following statements accurately describe Chronicle ? Select three answers.
+	- Chronicle is designed to retain, analyze, and search data.
+	- Cloud native tools such as Chronicle are designed to take advantage of cloud computing availability.
+	- Chronicle performs data analysis.
 
 
 
