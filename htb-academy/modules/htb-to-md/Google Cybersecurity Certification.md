@@ -305,7 +305,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Organizations use playbooks to ensure employees follow a consistent list of actions.
 
 
-2. 
+2. Fill in the blank: A security team <----> their playbook frequently by learning from past security incidents, then refining policies and procedures .
+	updates
+
+3. 
 
 
 
