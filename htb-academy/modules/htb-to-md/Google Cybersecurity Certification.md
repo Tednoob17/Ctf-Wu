@@ -211,8 +211,11 @@
 1. What is the purpose of security frameworks ?
 	Build plans to help mitigate risks and threats to data and privacy
 
-2.Fill t 
 
+2.Fill in the blank: An employee using multi-factor authentication to verify their identity is an example  of the <----> process . 
+	authentication
+
+3. What typ
 
 
 
