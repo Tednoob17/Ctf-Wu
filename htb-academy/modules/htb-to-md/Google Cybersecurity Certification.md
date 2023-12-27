@@ -295,7 +295,17 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+# 🌵
+## Course 2 - Week 4 (Play it Safe Manage,  Security Risk)
 
+
+1. Which of the following statements accurately describe playbooks ? Select three answers.
+	- A playbook clarifies what tools to use in response to a security incident.
+	- A playbook is a manual that provides details about any operational action.
+	- Organizations use playbooks to ensure employees follow a consistent list of actions.
+
+
+2. 
 
 
 
