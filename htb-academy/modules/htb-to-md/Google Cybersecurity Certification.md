@@ -263,13 +263,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 2. What are some of they benefits of SIEM tools? Select three answers 
 	- Deliver automated alerts 
 	- Increase efficiency 
-	- Minimize the number of logs to be manually reviewed 
+	- Minimize the number of logs to be manually reviewed .
+
+3. Fill in the blank: A security professional creates a dashboard that displays technical attributes about business operations called <---->, such as incoming and outgoing network traffic.
+	metrics
 
 
-
-
-
-3. 
+4. A 
 
 *   * *
 # 🍥
