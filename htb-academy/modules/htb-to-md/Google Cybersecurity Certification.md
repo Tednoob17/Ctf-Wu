@@ -327,7 +327,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 7. A security analyst establishes incident procedures.They also educate users on what to do in the event of a security incident .What phase of an incident playbook does this scenario describe ?
 	Preparation 
 
-8. 
+8. In what ways do SIEM tools and playbooks help security teams respond to an incident? Select all that apply.
+	- SIEM alerts inform security teams of potential threats.
+	- SIEM tools analyze data.
+	- SIEM tools and playbooks works together to provice an efficient way of handling security incidents.
+
+9. 
 
 
 *   * *
