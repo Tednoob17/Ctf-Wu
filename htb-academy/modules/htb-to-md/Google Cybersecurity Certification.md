@@ -273,7 +273,26 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Self-hosted
 
 
-5. 
+5. You are a security professional, and you want to save time by using a SIEM tool that will be managed by a provider and only be accessible through the internet.What type of toll do you 
+   choose ?
+
+	Cloud-hosted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *   * *
 # 🍥
