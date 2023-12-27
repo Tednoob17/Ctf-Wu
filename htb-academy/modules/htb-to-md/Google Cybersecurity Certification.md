@@ -269,7 +269,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	metrics
 
 
-4. A 
+4. A security team chooses to implement a SIEM tool that they will install, operate,and maintain using their own physical infrastructure.What type of tool are they using ?
+	Self-hosted
+
+
+5. 
 
 *   * *
 # 🍥
