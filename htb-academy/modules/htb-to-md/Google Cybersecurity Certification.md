@@ -404,7 +404,23 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 6. Fill in the blank: VPN services perform encapsulation to protect sensitive data by <----> it in other data packets.
 	wrapping
 
-7. 
+
+7. What network zone contains the internet and other services that outside of an organization's control ?
+	Uncontrolled
+
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
 *  *   *
 
 # 🌄
