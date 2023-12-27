@@ -221,9 +221,13 @@
 4. You work as a security analyst at a bank and need to ensure that customers can access their account information. Which core principle of the CIA triad are you using to confirm their data is accessible to them ?
 	Availability
 
+5. Which of the following statements accurately describe the CSF ? Select all that apply.
+	- The protect function of the CSF involves implementing policies, procedures, training, and tools to mitigate threats .
+	- The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+	- Investigating an incident to determine how the threat occured, what was affected, and where the attack originated is part of the respond function of the CSF.
 
 
-
+ 6. 
 
 
 
