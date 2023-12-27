@@ -241,8 +241,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	scope
 
 
-9. 
-
+9. A security analyst perform an internal security audit.They determine that the organization needs to install surveillance cameras at various store locations.What are they working to establish ? 
+	Physical controls
 
 
 
