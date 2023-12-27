@@ -408,10 +408,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 7. What network zone contains the internet and other services that outside of an organization's control ?
 	Uncontrolled
 
-8. 
+8. What network zone acts as a network perimeter to the internal network by isolating servers that 
+	Demilitarized zone
 
-
-
+9. 
 
 
 
