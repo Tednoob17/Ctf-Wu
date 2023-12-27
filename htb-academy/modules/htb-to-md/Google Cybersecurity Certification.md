@@ -388,10 +388,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 	- WPA is a wireless security protocol pertaining to connecting to the internet.
 	- The Institute of Electrical and Electronics Engineers maintains `Wi-Fi` standards.
-	- The set of standards `IEEE 802.11`  is also refered to as `Wi-Fi` 
+	- The set of standards `IEEE 802.11`  is also referred to as `Wi-Fi` 
 
+3. A firewall administrator sets up a firewall that operates based on predefined rules .It is not used to keep track of information from data packets. What class of firewall does this scenario describe ?
+	Stateless
 
-
+4. Which firewall offers the most security features ?
+	Next generation firewall (NGFW)
 
 
 *  *   *
