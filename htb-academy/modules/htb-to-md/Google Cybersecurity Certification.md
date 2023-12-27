@@ -308,7 +308,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 2. Fill in the blank: A security team <----> their playbook frequently by learning from past security incidents, then refining policies and procedures .
 	updates
 
-3. 
+3. Fill in the blank: Incident response playbooks outline processes for communications and <---->
+	documentation
+
+
+4.  A security analyst to stakeholders about a security breach .They provide details based on the organization's established standards.What phase of an incident response playbook does this scenario
 
 
 
