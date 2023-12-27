@@ -260,7 +260,16 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Security teams monitor logs to identify vulnerabilities and potential data breaches.
 
 
-2. What are some of they benefits of SIEM tools? Select three an 
+2. What are some of they benefits of SIEM tools? Select three answers 
+	- Deliver automated alerts 
+	- Increase efficiency 
+	- Minimize the number of logs to be manually reviewed 
+
+
+
+
+
+3. 
 
 *   * *
 # 🍥
