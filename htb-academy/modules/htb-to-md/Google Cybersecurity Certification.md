@@ -219,7 +219,7 @@
 	Vishing 
 
 4. You work as a security analyst at a bank and need to ensure that customers can access their account information. Which core principle of the CIA triad are you using to confirm their data is accessible to them ?
-	
+	Availability
 
 
 
