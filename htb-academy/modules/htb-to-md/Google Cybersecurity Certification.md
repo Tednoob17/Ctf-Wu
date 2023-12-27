@@ -393,9 +393,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 3. A firewall administrator sets up a firewall that operates based on predefined rules .It is not used to keep track of information from data packets. What class of firewall does this scenario describe ?
 	Stateless
 
+
 4. Which firewall offers the most security features ?
 	Next generation firewall (NGFW)
 
+5. 
 
 *  *   *
 
