@@ -411,7 +411,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 8. What network zone acts as a network perimeter to the internal network by isolating servers that 
 	Demilitarized zone
 
-9. 
+9.  A security analyst implements a proxy server to secure internal networks.What are some of the proxy server's primary functions ? Select all that apply.
+	- Determine whether request to connect to a website are allowed 
+	- Use public IP addresses that are different from the rest on the private network
+	- Temporarily stores data that is frequently requested by external serves
+
+10. 
 
 
 
