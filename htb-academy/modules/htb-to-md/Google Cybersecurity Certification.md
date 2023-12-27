@@ -250,14 +250,17 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- A summary of the goals .
 
 
+# 🌵
+## Course 2 - Week 3 (Play it Safe Manage,  Security Risk)
 
 
+1. Which of the following statements correctly describe logs ? Select three answers.
+	- Actions such as login request are recorded in a server log.
+	- Outbound requests to the internet from within a network are recorded in a firewall log.
+	- Security teams monitor logs to identify vulnerabilities and potential data breaches.
 
 
-
-
-
-
+2. What are some of they benefits of SIEM tools? Select three an 
 
 *   * *
 # 🍥
