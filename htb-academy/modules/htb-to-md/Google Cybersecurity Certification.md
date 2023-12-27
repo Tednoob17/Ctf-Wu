@@ -227,11 +227,11 @@
 	- Investigating an incident to determine how the threat occured, what was affected, and where the attack originated is part of the respond function of the CSF.
 
 
- 6. 
+ 6. A security team has just finished addressing a recent security incident .They n
+ow conduct tests to ensure that all of heir repairs were successful .Which OWASP principle does this scenario describe ?
+	Fix security issues correctly
 
-
-
-
+7. 
 *   * *
 # 🍥
 
