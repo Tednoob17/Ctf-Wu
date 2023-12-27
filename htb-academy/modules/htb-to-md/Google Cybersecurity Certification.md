@@ -319,6 +319,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 5. Why is the containment phase of an incident response playbook a high priority for organizations ?
 	It helps prevent ongoing risks to critical assets and data .
+
+
+6. Fill in the blank : During the post incident activity, organizations aim to enhance their overall <----> by determining the incident's root cause and implementing security improvements.
+	security posture
+
+ 
 *   * *
 # 🍥
 
