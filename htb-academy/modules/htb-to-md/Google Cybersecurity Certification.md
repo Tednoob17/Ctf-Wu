@@ -288,7 +288,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Cloud native tools such as Chronicle are designed to take advantage of cloud computing availability.
 	- Chronicle performs data analysis.
 
-
+8. What are examples of open-source tools? Select two answers.
+	- Suricata 
+	- Linux
 
 
 
