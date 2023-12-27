@@ -332,8 +332,6 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- SIEM tools analyze data.
 	- SIEM tools and playbooks works together to provice an efficient way of handling security incidents.
 
-9. 
-
 
 *   * *
 # 🍥
@@ -378,10 +376,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+# 🍥
+
+## Course 3 - Week 2 (Connect and Protect Network and Network Security)
 
 
-
-
+1. What network protocol helps data get to the right place by determining the MAC address of the next router or device on its path ? 
+	Address Resolution Protocol (ARP)
 
 
 
