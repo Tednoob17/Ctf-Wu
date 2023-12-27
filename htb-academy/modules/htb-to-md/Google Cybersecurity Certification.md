@@ -324,7 +324,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 6. Fill in the blank : During the post incident activity, organizations aim to enhance their overall <----> by determining the incident's root cause and implementing security improvements.
 	security posture
 
- 
+7. A security analyst establishes incident procedures.They also educate users on what to do in the event of a security incident .What phase of an incident playbook does this scenario describe ?
+	Preparation 
+
+8. 
+
+
 *   * *
 # 🍥
 
