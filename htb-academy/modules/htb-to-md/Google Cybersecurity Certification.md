@@ -397,8 +397,14 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 4. Which firewall offers the most security features ?
 	Next generation firewall (NGFW)
 
-5. 
 
+5. How do VPNs preserve confidentiality
+
+
+6. Fill in the blank: VPN services perform encapsulation to protect sensitive data by <----> it in other data packets.
+	wrapping
+
+7. 
 *  *   *
 
 # 🌄
