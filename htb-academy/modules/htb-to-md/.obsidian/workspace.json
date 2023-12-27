@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "e028c852e9149f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f69165eb9cd4a0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede144fd2dcc7a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Certification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a3b44a7810ff6e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From noob to script kiddie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b6ea5014fbf4b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Certification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "268c5503603879c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-ad/Introduction to Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f58d8ff29f951348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript-Deobfuscation/JavaScript Deobfuscation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28ed2c07f6efff08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux-Fundamentals/Linux Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "496cb47dfa53888b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MacOS-Fundamentals/MacOS Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89fcfb25dd815241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web-Requests/Web Requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "238c39b237ec19de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows-Fundamentals/Windows Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d04e9077128110f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "92eaa06babcea371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29437edea196ee6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30fbc2e2d69d0b35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2dffd59ffac3c14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "87e499a0c6b24571",
+    "type": "split",
+    "children": [
+      {
+        "id": "fecf0037e12f3d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffff0cc4c46a752c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "From noob to script kiddie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b67cf9ce62b58f15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "From noob to script kiddie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b37bde3e39138c04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cb577b4c5dfcd36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "From noob to script kiddie.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a3b44a7810ff6e3",
+  "lastOpenFiles": [
+    "Google Cybersecurity Certification.md",
+    "From noob to script kiddie.md",
+    "Getting-Started/Getting Started.md",
+    "Intro-to-ad/Introduction to Active Directory.md",
+    "Web-Requests/Web Requests.md",
+    "Windows-Fundamentals/Windows Fundamentals.md",
+    "MacOS-Fundamentals/MacOS Fundamentals.md",
+    "Linux-Fundamentals/Linux Fundamentals.md",
+    "JavaScript-Deobfuscation/JavaScript Deobfuscation.md"
+  ]
+}
