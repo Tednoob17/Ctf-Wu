@@ -231,7 +231,15 @@
 ow conduct tests to ensure that all of heir repairs were successful .Which OWASP principle does this scenario describe ?
 	Fix security issues correctly
 
-7. 
+7. What are some of the primary objectives of an internal security audit ? Select all that apply .
+
+	- Help security teams identify organizational security audit .
+	- Avoid fines due to a lack of compliance .
+	- Determine what needs to be improved in order to achieve the desired security posture . 
+
+
+
+
 *   * *
 # 🍥
 
