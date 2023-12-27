@@ -279,10 +279,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Cloud-hosted
 
 
+6. Fill in the blank: Splunk Enterprise is a <----> tool used to retain, analyze,and search an 
+   organizational's log data to provide security information and alerts in real-time.
+	Self-hosted
 
-
-
-
+7. 
 
 
 
