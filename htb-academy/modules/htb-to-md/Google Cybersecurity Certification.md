@@ -215,11 +215,11 @@
 2.Fill in the blank: An employee using multi-factor authentication to verify their identity is an example  of the <----> process . 
 	authentication
 
-3. What typ
+3. What type of social engineering attack attempts to exploit biometrics ?
+	Vishing 
 
-
-
-
+4. You work as a security analyst at a bank and need to ensure that customers can access their account information. Which core principle of the CIA triad are you using to confirm their data is accessible to them ?
+	
 
 
 
