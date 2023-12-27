@@ -312,9 +312,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	documentation
 
 
-4.  A security analyst to stakeholders about a security breach .They provide details based on the organization's established standards.What phase of an incident response playbook does this scenario
+4.  A security analyst to stakeholders about a security breach .They provide details based on the organization's established standards.What phase of an incident response playbook does this scenario describe ?
 
-
+	Coordination
 
 *   * *
 # 🍥
