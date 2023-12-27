@@ -237,6 +237,22 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Avoid fines due to a lack of compliance .
 	- Determine what needs to be improved in order to achieve the desired security posture . 
 
+8. Fill in the blank:  In an internal security audit, <----> refers to identifying people,assets, policies, procedures,and technologies that might impact an organization's security posture.
+	scope
+
+
+9. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
