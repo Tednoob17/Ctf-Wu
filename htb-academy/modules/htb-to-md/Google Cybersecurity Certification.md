@@ -316,6 +316,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 	Coordination
 
+
+5. Why is the containment phase of an incident response playbook a high priority for organizations ?
+	It helps prevent ongoing risks to critical assets and data .
 *   * *
 # 🍥
 
