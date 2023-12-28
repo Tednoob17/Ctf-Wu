@@ -489,7 +489,15 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 3. Fill in the blank: Requiring employees to turn off their personal devices while in secure areas is an example of a <----> security hardening practice.
 	physical 
 
-4. 
+4. To help improve the security of a business, its in-house security team is approved to simulate an attack that will identify vulnerabilities in business processes.What does this scenario describe ?
+	Penetration testing
+
+5. What are some methods for hardening operates systems ? Select three answers.
+	- Configuring a device setting to fit a secure encryption standard
+	- Removing unused software to limit unnecessary vulnerabilities.
+	- Keeping an up-to-date list of authorized users.
+
+6.  A security analyst reviews documentation about a firewall rule that includes a list of allowed and disallowed network ports.They compare it to the current firewall to ensure no changes have 
 
 
 
