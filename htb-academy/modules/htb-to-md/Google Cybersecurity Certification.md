@@ -837,7 +837,13 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Vulnerability management is way to limit security risks.
 	- Vulnerability management should consider various perspectives
 
-6. 
+6. What are some of the goals of performing vulnerability assessments ? Select two answers.
+	- To perform an audit that measures regulatory compliance
+	- To identify weakness and prevent attacks
+
+
+
+7. 
 
 
 
