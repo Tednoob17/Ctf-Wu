@@ -483,9 +483,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Disabling unused ports 
 
 
-2. When 
+2. When performing security hardening, what is the goal with regards to the attacks surface ?
+	Reduce the attack surface
 
+3. Fill in the blank: Requiring employees to turn off their personal devices while in secure areas is an example of a <----> security hardening practice.
+	physical 
 
+4. 
 
 
 
