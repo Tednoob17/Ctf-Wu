@@ -691,7 +691,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 	IT Staff 
 
-9. You are working with the `chinook` database and want to filter on the `hiredate` column to find all employees hired on or after `'2003-10-17'` (October17, 2003) .Replace `--???` with the missing information to complete the query. (If you want to undo your changes to the query, you can click the Reset button)
+9. You are working with the `chinook` database and want to filter on the `hiredate` column to find all employees hired on or after `'2003-10-17'` (October 17, 2003) .Replace `--???` with the missing information to complete the query. (If you want to undo your changes to the query, you can click the Reset button)
 
    ```sql
    SELECT firstname, lastname,hiredate
@@ -704,8 +704,15 @@ How many employees were hired on or after October17, 2003 ?
 
 10. You are working with the `Chinook` database and are responsible for filtering for the customers that live in the `city` of `'Mountain View'` and work for the company `'Google Inc'` . Replace `--???` with the missing information to complete the query .(If you want to undo your changes to the query, you can click the Reset button.)
 
+ ```sql
+ SELECT firstname, lastname, city, company
+ FROM customers
+ --???
+```
 
+How many customers live in Mountain View and work for Google Inc ?.
 
+	1
 
 
 
