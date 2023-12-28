@@ -796,7 +796,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Access to all connected resources stops when SSO is down.
 
 8. The main responsibility of a receptionist at a healthcare company is to check-in visitors upon arrival.When visitors check-in, which kinds of information should the receptionist be able to access to computer their task ? Select two answers.
-
+	- A photo ID
+	- The patient being visited
 
 
 
