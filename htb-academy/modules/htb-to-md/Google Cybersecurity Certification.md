@@ -977,8 +977,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 4. What is a computer security incident response team (CSIRT) ?
 	A specialized group of security professionals who are trained in incident management and response. 
 
-5. 
-
+5. What are common elements contained in incident response plans ? Select two answers . 
+	- Incident response procedures
+	- System Information
 
 
 
