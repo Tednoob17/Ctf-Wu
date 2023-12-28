@@ -854,6 +854,64 @@ How many customers live in Mountain View and work for Google Inc ?.
 	Determine how the target can be accessed
 
 
+10. What is *not* a step of practicing an attacker mindset ?
+
+	Identify ways to fix existing vulnerabilities. 
+
+
+
+
+
+# 🎑
+## Course 5 - Week 4 (Assets,Threats, and Vulnerabilities)
+
+
+1. Which of the following could be examples of social engineering attacks? Select three answers.
+	- An unfamiliar employee asking you to hold the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *  *  * 
 
