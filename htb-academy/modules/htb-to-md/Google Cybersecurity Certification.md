@@ -570,6 +570,19 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 1. What is an effect of Linux being open source  ?
 	It allows for collaboration among a community of developers .
 
+2. Which of the following components are part of the Linux architecture? Select all that apply .
+	- The kernel
+	- Hardware
+	- The Filesystem Hierarchy Standard (FHS)
+
+3. Which of the following are examples of Linux distributions? Select all that apply.
+	- Debian
+	- Ubuntu
+
+4. Which of the following stements correctly
+
+
+4. 
 
 
 
