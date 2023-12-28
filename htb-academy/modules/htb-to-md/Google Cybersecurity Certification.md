@@ -902,7 +902,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 	 - Help prioritize threats 
 	 - Identify points of failure
 
-10. What discoveries are made 
+10. What discoveries are made while decomposing an application  during a  PASTA threat model ? Select answers. 
+	- Which controls are in place to protect data along the way
+	- How data travels from users to an organization's database 
+
 
 
 
