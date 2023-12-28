@@ -841,9 +841,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- To perform an audit that measures regulatory compliance
 	- To identify weakness and prevent attacks
 
-
-
-7. 
+7. Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an  attack <----> 
+	
 
 
 
