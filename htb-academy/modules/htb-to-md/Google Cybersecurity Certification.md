@@ -1013,9 +1013,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Identify the affected devices or systems.
 
 
-2. 
+2. In incident response, documentation provides an established set of guidelines that members of an organization can follow to complete a task.What documentation benefit does this provide ?
+	Standardization 
 
 
+3. 
 
 
 
