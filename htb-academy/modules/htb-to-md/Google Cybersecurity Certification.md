@@ -958,7 +958,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 # 🎩
-## Course 6 - Week 1 (Sound the Alarm,  Detection)
+## Course 6 - Week 2 (Sound the Alarm,  Detection)
 
 
 1. Which of the following statements describe security incidents and events ?
@@ -973,7 +973,57 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Detection and Analysis
 	- Preparation
 
-4. 
+
+4. What is a computer security incident response team (CSIRT) ?
+	A specialized group of security professionals who are trained in incident management and response. 
+
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * * *
 
 
