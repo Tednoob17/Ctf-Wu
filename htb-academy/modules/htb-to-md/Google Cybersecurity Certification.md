@@ -768,18 +768,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 # 🎑
 ## Course 5 - Week 2(Assets,Threats, and Vulnerabilities)
 
+1. Which functions would fall under the category of operational security controls ? Select two answers.
+	- Responding to an incident alert
+	- Providing security awareness training
 
-
-
-
-
-
-
-
-
-
-
-
+2. 
 
 
 
