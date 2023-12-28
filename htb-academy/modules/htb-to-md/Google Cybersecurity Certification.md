@@ -471,8 +471,6 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Smurf attack 
 
 
-
-
 # 🍥
 
 ## Course 3 - Week 4 (Connect and Protect Network and Network Security)
