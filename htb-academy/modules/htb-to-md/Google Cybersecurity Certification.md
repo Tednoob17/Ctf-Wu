@@ -452,8 +452,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- A company can avoid using unprotected Wi-Fi to help protect itself from packet sniffing.
 
 
-6. 
+6. As a security professional, you take steps to stop an attacker from changing the souce IP of a data packet in order to impersonate your authorized system.What type of network attack are you working to prevent?
+	IP spoofing
 
+7. 
 
 
 
