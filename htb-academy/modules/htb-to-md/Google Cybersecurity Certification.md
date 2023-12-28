@@ -497,9 +497,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Removing unused software to limit unnecessary vulnerabilities.
 	- Keeping an up-to-date list of authorized users.
 
-6.  A security analyst reviews documentation about a firewall rule that includes a list of allowed and disallowed network ports.They compare it to the current firewall to ensure no changes have 
+6.  A security analyst reviews documentation about a firewall rule that includes a list of allowed and disallowed network ports.They compare it to the current firewall to ensure no changes have been made.What does this scenario describe ?
+	Checking baseline configuration
 
+7. Fill in the blank: The security measure multi-factor authentication (MFA) requires a user to verify their identity <----> before accessing a system or network.
+	in two or more ways
 
+8. 
 
 
 
