@@ -894,10 +894,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 	DOM-based
 
 
-8. 
+8. What is one way to prevent SQL injection?
+	Having well-written code
 
-
-
+9. 
 
 
 
