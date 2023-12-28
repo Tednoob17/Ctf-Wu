@@ -799,11 +799,17 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- A photo ID
 	- The patient being visited
 
+9. What types of user information does an API token contain ? Select two answers.
+	- A user's identity
+	- A user's site permissions
+	- A user's password
+
+
+10. 
 
 
 
 
-9. 
 
 
 
