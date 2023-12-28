@@ -446,7 +446,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 4. Fill in the blank: The Dos attack <----> occurs when an attacker reatedbly sends ICMP packets to a network server.
 	ICMP flood
 
-5. Which of the following statements correctly describe passive and packet sniffing ? Select 
+5. Which of the following statements correctly describe passive and packet sniffing ? Select three answers.
+	- Passive packet sniffing allows malicious actors to view the information going in and out of the targeted device .
+	- Active packet sniffing may enable attackers to redirect the packets to unintended ports.
+	- A company can avoid using unprotected Wi-Fi to help protect itself from packet sniffing.
+
+
+6. 
 
 
 
