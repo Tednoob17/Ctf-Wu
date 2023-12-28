@@ -795,6 +795,14 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Stolen credentials can give attackers access to multiple resources.
 	- Access to all connected resources stops when SSO is down.
 
+8. The main responsibility of a receptionist at a healthcare company is to check-in visitors upon arrival.When visitors check-in, which kinds of information should the receptionist be able to access to computer their task ? Select two answers.
+
+
+
+
+
+
+9. 
 
 
 
