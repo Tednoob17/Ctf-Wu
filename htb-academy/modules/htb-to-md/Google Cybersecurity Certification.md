@@ -679,7 +679,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	`WHERE name LIKE  `Dr.%`; 
 
 7. You need to perform a SQL join .You want to return all the columns with records matching on the `device_id` column between the `employees` and `machines` tables.You also want to return records from the `employees` table. Which of the following queries would you use ?
-
+	`SELECT * FROM employees LEFT JOIN machines ON employees.device_id = machines.devices_id`
 
 
 
