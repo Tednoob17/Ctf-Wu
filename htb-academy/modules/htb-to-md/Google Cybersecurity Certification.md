@@ -774,7 +774,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 2. A large hotel chain is conducting a national sweepstakes.To enter the sweepstakes, customers must consent to sharing their email address with the chain's business partners for marketing purposes.What are the hotel chain's responsibilities  as data custodians ? Select three answers.
 	- Collect customer consent and emails
-	- Nack up
+	- Back up customer information
+	- Send information to business partners
 
 3. 
 
