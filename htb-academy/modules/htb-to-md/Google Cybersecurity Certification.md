@@ -867,8 +867,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 1. Which of the following could be examples of social engineering attacks? Select three answers.
-	- An unfamiliar employee asking you to hold the 
+	- An unfamiliar employee asking you to hold the door open to a restricted area 
+	- An email urgently asking you to send money to help a friend who is stuck in a foreign country
+	- A pop-up advertisement promising a large cash reward in return for sensitive information
 
+2. Fill in the blank: <-----> uses
 
 
 
