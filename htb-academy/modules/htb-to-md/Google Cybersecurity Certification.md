@@ -440,7 +440,56 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- A DDos attack is intended to overwhelm the target server .
 
 
-3. 
+3. A security team discovers that an attacker has taken advantage of the handshake process that is used to establish a TCP connection between a device and their sever.Which Dos attack does this scenario describe ?
+	SYN flood attack
+
+4. Fill in the blank:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *  *   *
 
 # 🌄
