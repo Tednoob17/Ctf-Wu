@@ -510,8 +510,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 9. A security team works to ensure that an issue in one area of the business does not spread to others and create more problems.They design subnets  for each department, such as one for research and another for finance.What does this scenario describe ? 
 	Network segmentation
 
-10. 
-
+10. What is one one key similarity between regular web servers and cloud servers?
+	They both require security measures taken by the organization to stay safe .
 
 
 
