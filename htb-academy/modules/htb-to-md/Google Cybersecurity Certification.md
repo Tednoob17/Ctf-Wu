@@ -691,6 +691,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 	IT Staff 
 
+9. You are working with the `chinook` database and want to filter on the `hiredate` column to find all employees hired on or after `'2003-10-17'` (October17, 2003) .Replace `--???` with the missing information to complete the query. (If you want to undo your changes to the query, you can click the Reset button)
 
 
 
