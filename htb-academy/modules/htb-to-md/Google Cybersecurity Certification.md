@@ -791,6 +791,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 6. Fill in the blank: Knowledge, ownership, and characteristic are three factors of <----> systems.
 	authentication
 
+7. What are some disadvantages of using single sign-on (SSO) technology for user authentication Select two.
+	- Stolen credentials can give attackers access to multiple resources.
+	- Access to all connected resources stops when SSO is down.
 
 
 
