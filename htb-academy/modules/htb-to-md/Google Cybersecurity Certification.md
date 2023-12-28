@@ -678,7 +678,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 6. You work with a table that has one column for `name` . Some of these names have prefixes. You want to identify all of the doctors. Which query will return every name that starts with the prefix `'Dr.'` ?
 	`WHERE name LIKE  `Dr.%`; 
 
-7. You need to perform a SQL join .You want to return all the columns with records matching on the 
+7. You need to perform a SQL join .You want to return all the columns with records matching on the `device_id` column between the `employees` and `machines` tables.You also want to return records from the `employees` table. Which of the following queries would you use ?
 
 
 
