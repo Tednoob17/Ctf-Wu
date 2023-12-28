@@ -717,18 +717,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 *  *  * 
 
 # 🎑
@@ -777,11 +765,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
-
-
-
+# 🎑
+## Course 5 - Week 2(Assets,Threats, and Vulnerabilities)
 
 
 
