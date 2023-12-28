@@ -598,8 +598,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Give error messages
 	- give output
 
-7. 
- 
+8. Fill in the blank: When you communicate with the shell, the commands in the shell can <----> 
+ Select all  that apply.
 
 
 
