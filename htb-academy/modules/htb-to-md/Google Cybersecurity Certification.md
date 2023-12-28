@@ -587,7 +587,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- The operate system interprets a request from the application and directs it to the appropriate components of the computer's hardware.
 	- The hardware sends information back to the operating system, which is sent back to the application.
 
-6. 
+6. Which of the following are key types of user interfaces? Select two answers.
+	- Command line
+	- Graphical
+
+
+7. 
 
 
 
