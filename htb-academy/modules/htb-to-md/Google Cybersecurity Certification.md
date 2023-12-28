@@ -882,7 +882,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Attackers encrypt data on the device without the user's permission.
 	- Attackers demand payment to restore access to a device .
 
-5. 
+5. Fill in the blank: Cryptojacking is a type of malware that uses someone's device to <----> cryptocurrencies.
+	mine
+
+6. 
 
 
 
