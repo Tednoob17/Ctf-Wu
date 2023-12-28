@@ -443,7 +443,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 3. A security team discovers that an attacker has taken advantage of the handshake process that is used to establish a TCP connection between a device and their sever.Which Dos attack does this scenario describe ?
 	SYN flood attack
 
-4. Fill in the blank:
+4. Fill in the blank: The Dos attack <----> occurs when an attacker reatedbly sends ICMP packets to a network server.
+	ICMP flood
+
+5. Which of the following statements correctly describe passive and packet sniffing ? Select 
 
 
 
