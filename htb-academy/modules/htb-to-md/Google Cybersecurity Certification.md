@@ -877,9 +877,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 3. Fill in the blank: The main difference between a worm and a virus is that a worm can <---->
 	replicate itself across devices without requiring users to perform an action
 
-4. What are characteristics  of a ra
+4. What are characteristics  of a ransomware attack? Select three answers.
+	- Attackers make themselves know to their targets.
+	- Attackers encrypt data on the device without the user's permission.
+	- Attackers demand payment to restore access to a device .
 
-
+5. 
 
 
 
