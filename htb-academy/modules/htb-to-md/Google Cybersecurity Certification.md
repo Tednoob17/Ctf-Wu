@@ -1017,7 +1017,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 	Standardization 
 
 
-3. 
+3. After a ransomware incident, an organization discovers their ransomware playbook needs improvements.A security analyst is tasked with changing the playbook documentation.Which
+   documentation best practice does this scenario highlight ?
+	Update regularly
+
+4. 
 
 
 
