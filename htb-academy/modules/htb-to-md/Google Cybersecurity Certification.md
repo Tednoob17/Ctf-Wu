@@ -897,7 +897,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 8. What is one way to prevent SQL injection?
 	Having well-written code
 
-9. 
+9. What are some key benefits of the targets  of the threat modeling process ? Select all apply.
+	 - Reduce an attack surface
+	 - Help prioritize threats 
+	 - Identify points of failure
+
+10. What discoveries are made 
 
 
 
