@@ -702,7 +702,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 How many employees were hired on or after October17, 2003 ?
 	4 
 
-
+10. You are working with the `Chinook` database and are responsible for filtering for the customers that live in the `city` of `'Mountain View'` and work for the company `'Google Inc'` . Replace `--???` with the missing information to complete the query .(If you want to undo your changes to the query, you can click the Reset button.)
 
 
 
