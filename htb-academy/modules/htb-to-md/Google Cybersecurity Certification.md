@@ -593,13 +593,22 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	It allows you to communicate with operating system.
 	
   
-  7. Fill in the blan: When you communicate with the shell, the commands in the shell can <----> Select all that apply.
+  7. Fill in the blank: When you communicate with the shell, the commands in the shell can <----> Select all that apply.
 	- Take input
 	- Give error messages
 	- give output
 
 8. Which of the following is an example of hardware?
 	CPU
+
+9. What is a standard input ?
+	Information received by the OS via the command line.
+
+
+
+
+
+
 
 
 *  *  * 
