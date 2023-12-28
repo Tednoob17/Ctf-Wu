@@ -1008,7 +1008,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 # 🎩
 ## Course 6 - Week 3 (Sound the Alarm,  Detection)
 
-1. A security analyst is investigating an alert involving a possible network intrusion. Which of the tasks is the security 
+1. A security analyst is investigating an alert involving a possible network intrusion. Which of the tasks is the security analyst likely to perform as part of the Detection and Analysis phase of the incident response lifecycle ? Select two answers.
+	- Collect and analyze the network logs to verify the alert.
+	- Identify the affected devices or systems.
+
+
+2. 
 
 
 
