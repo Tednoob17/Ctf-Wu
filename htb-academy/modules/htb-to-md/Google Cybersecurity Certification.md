@@ -955,8 +955,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
 # 🎩
 ## Course 6 - Week 2 (Sound the Alarm,  Detection)
 
@@ -1007,8 +1005,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
+# 🎩
+## Course 6 - Week 3 (Sound the Alarm,  Detection)
 
-
+1. A security analyst is investigating an alert involving a possible network intrusion. Which of the tasks is the security 
 
 
 
