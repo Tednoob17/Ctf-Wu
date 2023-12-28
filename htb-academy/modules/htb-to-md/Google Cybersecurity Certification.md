@@ -632,7 +632,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Add write permissions to the user for the `access.txt` file.
 	- Remove read permissions from the group for the `access.txt` file 
 
-7. 
+7. A user is not a root user, but needs elevated privileges to use certain commands.What should
+  they do?
+	  Use the `sudo` command .
+
+8. What should you specify in the argument following the `cd` command ?
+		The directory you want to navigate  to 
 
 *  *  * 
 
