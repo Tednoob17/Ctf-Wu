@@ -675,6 +675,38 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 `SELECT * FROM employees WHERE department == 'Sales';`
 	To only return rows that match the filter 
 
+6. You work with a table that has one column for `name` . Some of these names have prefixes. You want to identify all of the doctors. Which query will return every name that starts with the prefix `'Dr.'` ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *  *  * 
 
