@@ -435,8 +435,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 2. Which of the following statements accurately describe Denial of Service (Dos) and Distributed Denial of Service (DDos) attacks ? Select three answers .
 
-	- 
-
+	- A Dos attack may involve flooding a network with traffic.
+	- In both Dos and DDos attacks,if any part of the network is overloaded, the attacks are successful.
+	- A DDos attack is intended to overwhelm the target server .
 
 
 3. 
