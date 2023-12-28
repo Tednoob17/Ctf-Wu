@@ -507,9 +507,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	A firewall function that blocks or allows certain port number in order to limit unwanted network network traffic
 
 
-9. 
+9. A security team works to ensure that an issue in one area of the business does not spread to others and create more problems.They design subnets  for each department, such as one for research and another for finance.What does this scenario describe ? 
+	Network segmentation
 
-
+10. 
 
 
 
