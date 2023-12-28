@@ -968,8 +968,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 2.  What process is used to provide a blueprint for effective incident response ?
 	The NIST incident Response Lifecycle 
 
-3. 
-	
+3. Which of following are phases of the NIST incident Response Lifecycle? Select three answers .
+	- Containment, Eradication, and Recovery
+	- Detection and Analysis
+	- Preparation
 
 4. 
 * * *
