@@ -598,10 +598,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Give error messages
 	- give output
 
-8. Fill in the blank: When you communicate with the shell, the commands in the shell can <----> 
- Select all  that apply.
-
-
+8. Which of the following is an example of hardware?
+	CPU
 
 
 *  *  * 
