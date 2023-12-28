@@ -842,8 +842,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- To identify weakness and prevent attacks
 
 7. Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an  attack <----> 
-	
+	surface 
 
+8. 
 
 
 *  *  * 
