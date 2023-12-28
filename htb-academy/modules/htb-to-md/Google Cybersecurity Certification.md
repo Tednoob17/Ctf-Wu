@@ -563,6 +563,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+# 🌄
 
 ## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
 
@@ -603,6 +604,23 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 9. What is a standard input ?
 	Information received by the OS via the command line.
+
+
+# 🌄
+
+## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
+
+
+1. What are the arguments in `cp vulnerabilities.txt  /home/analyst/projects` ? Select answers two answers.
+	- `/home/analyst/projects`
+	- `vulnerabilities.txt` 
+
+2. Which of the following items represents the root directory ?
+	`/` 
+
+3. 
+
+
 
 
 
