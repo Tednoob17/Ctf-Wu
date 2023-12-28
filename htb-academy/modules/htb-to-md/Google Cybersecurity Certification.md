@@ -477,7 +477,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+1. Which of the following tasks are security hardening practices ? Select that apply .
+	- Reducing access permissions across devices and networks
+	- Installing patch updates
+	- Disabling unused ports 
 
+
+2. When 
 
 
 
