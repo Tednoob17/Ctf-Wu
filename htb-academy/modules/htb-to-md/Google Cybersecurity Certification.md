@@ -568,11 +568,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. Which of the following statements accurately describe operating systems ? Select all that apply.
-	- 
+	- Operating systems are the interfaces between computer hardware and user.
+	- Computers, smartphones, and tablets all have operating systems.
+	- Operating systems are responsible for making computers run efficiently.
 
-
-
-
+2. 
 
 
 
