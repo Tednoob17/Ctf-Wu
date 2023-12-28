@@ -618,8 +618,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 2. Which of the following items represents the root directory ?
 	`/` 
 
-3. 
-
+3. Which command searches a specified file and returns all lines in the file containing a specified 
+   strings?
+	`grep` 
 
 
 
