@@ -1021,11 +1021,11 @@ How many customers live in Mountain View and work for Google Inc ?.
    documentation best practice does this scenario highlight ?
 	Update regularly
 
-4. 
+4. A member of the forensics department of an organization receives a computer that requires 
+examination. On which part of the chain of custody form should they sign their name and write the date? 
+	Description of the evidence
 
-
-
-
+5. 
 
 
 
