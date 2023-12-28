@@ -430,7 +430,16 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 ## Course 3 - Week 3 (Connect and Protect Network and Network Security)
 
 
+1. What is the main objective of a Denial of Service (Dos)  attack  ?
+	Disrupt normal business operations
 
+2. Which of the following statements accurately describe Denial of Service (Dos) and Distributed Denial of Service (DDos) attacks ? Select three answers .
+
+	- 
+
+
+
+3. 
 *  *   *
 
 # 🌄
