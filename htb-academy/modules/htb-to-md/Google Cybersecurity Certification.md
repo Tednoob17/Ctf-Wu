@@ -818,9 +818,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 ## Course 5 - Week 3 (Assets,Threats, and Vulnerabilities)
 
 
-1. An 
+1. An application has broken access controls that fail to restrict any user from creating new accounts. This allows anyone to add new accounts with full admin privileges.
+	A vulnerability
 
-
+2. 
 
 
 
