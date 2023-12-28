@@ -676,10 +676,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	To only return rows that match the filter 
 
 6. You work with a table that has one column for `name` . Some of these names have prefixes. You want to identify all of the doctors. Which query will return every name that starts with the prefix `'Dr.'` ?
+	`WHERE name LIKE  `Dr.%`; 
 
-
-
-
+7. You need to perform a SQL join .You want to return all the columns with records matching on the 
 
 
 
