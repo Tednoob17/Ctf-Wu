@@ -585,7 +585,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 5. What  happens when you use applications on your computers ? Select three answers.
 	- The application sends your request to the operating system.
 	- The operate system interprets a request from the application and directs it to the appropriate components of the computer's hardware.
-
+	- The hardware sends information back to the operating system, which is sent back to the application.
 
 6. 
 
