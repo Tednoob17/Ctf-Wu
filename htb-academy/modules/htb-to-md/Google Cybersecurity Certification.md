@@ -777,8 +777,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Back up customer information
 	- Send information to business partners
 
-3. 
-
+3. You send an email to a friend.The service provider of your inbox encrypts all messages that you send.What happens to the information in your email when it's encrypted ?
+	
 
 
 
