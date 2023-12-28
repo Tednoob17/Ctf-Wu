@@ -637,7 +637,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	  Use the `sudo` command .
 
 8. What should you specify in the argument following the `cd` command ?
-		The directory you want to navigate  to 
+	The directory you want to navigate  to .
 
 *  *  * 
 
