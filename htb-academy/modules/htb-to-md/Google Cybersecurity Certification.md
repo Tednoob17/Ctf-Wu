@@ -671,9 +671,9 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 4. Both an `employees` table and a `machines` table contain contain an `employee_id` column, and you want to return only the records that share a value in this column.Which keyword should be part of your query ?
 	`INNER JOIN` 
 
-5. 
-
-
+5. What does `WHERE department == 'Sales'` indicate in the following SQL query ?
+`SELECT * FROM employees WHERE department == 'Sales';`
+	To only return rows that match the filter 
 
 
 *  *  * 
