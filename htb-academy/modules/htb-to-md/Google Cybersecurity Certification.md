@@ -871,7 +871,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- An email urgently asking you to send money to help a friend who is stuck in a foreign country
 	- A pop-up advertisement promising a large cash reward in return for sensitive information
 
-2. Fill in the blank: <-----> uses
+2. Fill in the blank: <-----> uses text messages to manipulate targets into sharing sensitive information.
+	Smishing
+
+3.Fill  
 
 
 
