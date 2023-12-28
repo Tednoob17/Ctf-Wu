@@ -579,7 +579,13 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 3. What does BIOS load in order to start an operating system ?
 	The bootloader
 
-4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and direct them to the appropriate
+4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and direct them to the appropriate <---->
+	Components of the computers hardware
+
+5. What  happens when you use applications on your computers ? Select three answers.
+	
+
+6. 
 
 
 

@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31e561e674494d67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htb-academy/modules/htb-to-md/Google Cybersecurity Certification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htb-academy/modules/htb-to-md/Google Cybersecurity Certification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "htb-academy/modules/htb-to-md/Google Cybersecurity Certification.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3525b92c863576fd",
+  "active": "31e561e674494d67",
   "lastOpenFiles": [
+    "htb-academy/modules/htb-to-md/Google Cybersecurity Certification.md",
     "RHEL8-Fundamentals.pdf",
     "Network Security & Database Vulnerabilities.pdf",
     "IBM-Introduction to Cybersecurity Tools & Cyber Attacks.pdf",
