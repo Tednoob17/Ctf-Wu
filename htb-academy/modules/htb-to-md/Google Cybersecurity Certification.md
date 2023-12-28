@@ -830,8 +830,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	The application layer secures information with controls that are programmed into the application itself.The data layer maintains the integrity of information with controls like encryption and hashing.
 
 
-4. 
-
+4. Fill in the blank: According to CVE list a vulnerability with a score of <----> or above is consired to be a critical risk to company assets that should be addressed right away.
+	9 
 
 
 
