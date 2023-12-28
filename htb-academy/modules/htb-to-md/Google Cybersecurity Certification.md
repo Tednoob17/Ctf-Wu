@@ -982,7 +982,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- System Information
 
 
+6. What are investigative tools used for ?
+	Monitoring activity
 
+
+7. 
 
 
 
