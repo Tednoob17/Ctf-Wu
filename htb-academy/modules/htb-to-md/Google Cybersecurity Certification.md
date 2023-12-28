@@ -503,7 +503,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 7. Fill in the blank: The security measure multi-factor authentication (MFA) requires a user to verify their identity <----> before accessing a system or network.
 	in two or more ways
 
-8. 
+8. Which of the following statement accurately describes port filtering ?
+	A firewall function that blocks or allows certain port number in order to limit unwanted network network traffic
+
+
+9. 
 
 
 
