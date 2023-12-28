@@ -844,7 +844,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 7. Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an  attack <----> 
 	surface 
 
-8. 
+8. A project manager at utility company receives a suspicious email that contains a file attachment. They open the attachment and it installs malicious software on their laptop. 
 
 
 *  *  * 
