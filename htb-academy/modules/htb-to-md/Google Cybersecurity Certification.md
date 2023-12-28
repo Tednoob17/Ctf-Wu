@@ -835,7 +835,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 5. Which of following are characteristics of the vulnerability management process ? Select two
 	- Vulnerability management is way to limit security risks.
-	- Vulnerability management should consider
+	- Vulnerability management should consider various perspectives
+
+6. 
 
 
 
