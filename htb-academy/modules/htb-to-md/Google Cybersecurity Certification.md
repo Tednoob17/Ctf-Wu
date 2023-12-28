@@ -874,9 +874,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 2. Fill in the blank: <-----> uses text messages to manipulate targets into sharing sensitive information.
 	Smishing
 
-3.Fill  
+3. Fill in the blank: The main difference between a worm and a virus is that a worm can <---->
+	replicate itself across devices without requiring users to perform an action
 
-
+4. What are characteristics  of a ra
 
 
 
