@@ -656,19 +656,19 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 1. A security analyst queries a database related to security patches.How can SQL help this analyst with their work?
 	The analyst can efficiently find the data they need.
 
+
 2. What is true about the values in the primary key column? Select all that apply.
 	- They cannot be null (or empty).
 	- Each row must have a unique value.
 
+
 3. Which of these SQL statements queries the `machines` table ? Select  all that apply.
 
 	- `SELECT * FROM machines;`
-	- `SELECT device_id, operating_system FROM machines WHERE operating_system == 'OS 2' ;`
-	
+	- `SELECT device_id, operating_system FROM machines WHERE operating_system == 'OS 2' ;` 
 
 
-
-
+4. 
 
 
 
