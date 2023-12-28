@@ -998,8 +998,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)? 
 	 The analysis and response to a security incident
 
-10. Fill in the blank: 
 
+
+10. Fill in the blank: During the <-----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
+	data collection 
 
 
 
