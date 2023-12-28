@@ -833,7 +833,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 4. Fill in the blank: According to CVE list a vulnerability with a score of <----> or above is consired to be a critical risk to company assets that should be addressed right away.
 	9 
 
-
+5. Which of following are characteristics of the vulnerability management process ? Select two
+	- Vulnerability management is way to limit security risks.
+	- Vulnerability management should consider
 
 
 
