@@ -682,6 +682,15 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	`SELECT * FROM employees LEFT JOIN machines ON employees.device_id = machines.devices_id`
 
 
+8. You are working with `Chinook` database. You want to return the `lastname` and `title` columns from the `employees` table. Replace `--???` with the missing information to complete the query.(If you want o undo your changes to the query, you can click the Reset button.)
+
+   ```sql 
+   select * 
+   FROM employees;
+```
+
+	IT Staff 
+
 
 
 
