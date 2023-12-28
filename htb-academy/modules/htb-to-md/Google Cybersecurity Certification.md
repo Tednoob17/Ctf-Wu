@@ -849,6 +849,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- The file attachment
 	- The suspicious email
 
+
+9. What phase comes after identifying a target when  practicing an attacker mindset ?
+	Determine how the target can be accessed
+
+
+
 *  *  * 
 
 
