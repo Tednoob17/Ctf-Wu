@@ -455,12 +455,15 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 6. As a security professional, you take steps to stop an attacker from changing the souce IP of a data packet in order to impersonate your authorized system.What type of network attack are you working to prevent?
 	IP spoofing
 
-7. What are somme common IP spoofing attacks ? Select all that apply.
+7. What are some common IP spoofing attacks ? Select all that apply.
 	- On-paths attacks
 	- smurf attacks
 
 
-8. 
+8. In which attack do malicious actors impersonate a web browser or web server by placing themselves between the devices, then sniffing the packet information to discover their IP and MAC addresses ?
+	- Packet flooding attack
+
+9. 
 
 
 
