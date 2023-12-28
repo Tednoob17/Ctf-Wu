@@ -805,7 +805,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- A user's password
 
 
-10. 
+10.  A customer of an online retailer has complained that their account contains an unauthorized purchase.You investigate the incident by reviewing the retailer's access logs.What are some components of the user's session that you might review? Select two answers.
+	- Session cookie
+	- Session ID
 
 
 
