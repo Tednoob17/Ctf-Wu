@@ -1025,8 +1025,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 examination. On which part of the chain of custody form should they sign their name and write the date? 
 	Description of the evidence
 
-5. 
-
+5. An analyst is responding to a distributed denial of service attack (DDos).They take several manual steps outlined in the organization's DDos playbook.Which type of playbook did they use to respond to the incident ?
+	Non-automated
 
 
 
