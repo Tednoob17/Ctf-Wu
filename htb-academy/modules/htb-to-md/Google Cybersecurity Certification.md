@@ -518,32 +518,6 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *  *   *
 
 # 🌄
@@ -590,12 +564,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
 
 
-
-
-
-
+1. Which of the following statements accurately describe operating systems ? Select all that apply.
+	- 
 
 
 
