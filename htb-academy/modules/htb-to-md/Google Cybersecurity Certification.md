@@ -699,8 +699,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
    --???
 ```
 
-
-
+How many employees were hired on or after October17, 2003 ?
+	4 
 
 
 
