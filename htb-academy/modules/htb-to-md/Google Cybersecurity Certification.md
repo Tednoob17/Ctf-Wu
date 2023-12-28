@@ -582,9 +582,14 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 4. Which of the following statements correctly describe KALI LINUX ? Select three answers. (KALI LINUX is a trademark of OffSec.)
 	- KALI LINUX should be used on a virtual machine.
 	- KALI LINUX was created specifically to be used with penetration testing and digital forensics.
+	- KALI LINUX is a open source Linux distribution that is widely used in security.
 
 
-5. 
+5. Which of the following is a Linux distribution that is built enterprise use and offers a dedicated support team for customers ?
+	Redhat 
+
+
+6. 
  
 
 
