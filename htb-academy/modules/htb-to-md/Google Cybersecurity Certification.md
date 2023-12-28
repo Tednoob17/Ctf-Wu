@@ -788,8 +788,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Symmetric encryption
 	- Asymmetric encryption
 
-6. Fill in the blank: Knowledge, ownership, and characteristic are three factors of <----> systems.
-	authentication
 
 
 
