@@ -911,38 +911,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *  *  * 
 
 
@@ -987,14 +955,16 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
+# 🎩
+## Course 6 - Week 1 (Sound the Alarm,  Detection)
 
 
 
+1. Which of the following statements describe security incidents and events ?
+	All security incidents are events,but not all events are security incidents.
 
 
-
-
-
+2.  
 
 
 
@@ -1005,7 +975,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 # ⚜️
-## Course 7 - Week1 Automate Cyber security Tasks with python)
+## Course 7 - Week 1 Automate Cyber security Tasks with python)
 
 1. Fill in the blank: Automation is <---->
 	The use of technology to reduce human and manual effort to perform common and repetitive tasks
