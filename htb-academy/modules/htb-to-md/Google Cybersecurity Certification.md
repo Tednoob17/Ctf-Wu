@@ -964,7 +964,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	All security incidents are events,but not all events are security incidents.
 
 
-2.  
+
+2.  What process is used to provide a blueprint for effective incident response ?
 
 
 
