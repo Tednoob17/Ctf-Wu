@@ -590,8 +590,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 6. What is the Linux shell used for ?
-	it allows you to communicate with the shell, the commands in the shell can <----> Select all that apply.
-
+	It allows you to communicate with operating system.
+	
+  
+  7. Fill in the blan: When you communicate with the shell, the commands in the shell can <----> Select all that apply.
 	- Take input
 	- Give error messages
 	- give output
