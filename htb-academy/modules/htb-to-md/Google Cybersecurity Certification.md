@@ -416,7 +416,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Use public IP addresses that are different from the rest on the private network
 	- Temporarily stores data that is frequently requested by external serves
 
-10. 
+10. Which of the following statements accurately describe forward and reverse proxy servers ?
+    Select three answers.
+  
+	- Reverse proxy servers accept traffic form external parties, approve it, then forward it to internal servers.
+	- Forward proxy servers receive outgoing traffic from an employee approve it, then forward it to its destination on the internet .
+	- Forward proxy servers regulate ans restrict  person's access to the internet .
 
 
 
