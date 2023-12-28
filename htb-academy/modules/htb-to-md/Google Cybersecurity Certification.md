@@ -821,7 +821,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 1. An application has broken access controls that fail to restrict any user from creating new accounts. This allows anyone to add new accounts with full admin privileges.
 	A vulnerability
 
-2. 
+2. Why do organizations use defense in depth model to protect information? Select two answers.
+	- Threats that penetrate one level can be contained in another.
+	- Layered defenses reduce risk addressing multiple vulnerabilities.
+
+
+3. What is the difference between the app 
 
 
 
