@@ -463,9 +463,19 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 8. In which attack do malicious actors impersonate a web browser or web server by placing themselves between the devices, then sniffing the packet information to discover their IP and MAC addresses ?
 	- Packet flooding attack
 
-9. 
+9. Fill in the blank: The <----> network attack occurs when a malicious  actor takes a network .
+
+	replay
+
+10. Which combination Dos and IP spoofing attack can bring down an entire network by flooding an authorized user's IP address with packets ?
+	Smurf attack 
 
 
+
+
+# 🍥
+
+## Course 3 - Week 4 (Connect and Protect Network and Network Security)
 
 
 
