@@ -990,11 +990,12 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Audio recorders
 	- Cameras
 
+
 8. Fill in the blank: An intrusion detection system (IDS) <----> system activity and alerts on possible intrusions.
 	monitors
 
 
-9. What is an example 
+9. What is an example of a workflow 
 
 
 
