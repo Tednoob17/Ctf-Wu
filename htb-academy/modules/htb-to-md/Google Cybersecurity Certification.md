@@ -572,9 +572,14 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Computers, smartphones, and tablets all have operating systems.
 	- Operating systems are responsible for making computers run efficiently.
 
-2. 
+2. Which of the following operating systems were designed to run on mobile devices? Select two answers.
+	- IOS
+	- Android
 
+3. What does BIOS load in order to start an operating system ?
+	The bootloader
 
+4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and direct them to the appropriate
 
 
 
