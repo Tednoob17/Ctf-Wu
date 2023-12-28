@@ -625,10 +625,14 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 4. Which of these commands creates a new file ?
 	`touch`
 
-5. 
+5. What are red, write, and execute ? 
+	The three types of permissions for authorized users.
 
+6. A security analyst enters `chmod u+w, g-r access.txt` into the command line.What does this command tell the operating system to do? Select all that apply.
+	- Add write permissions to the user for the `access.txt` file.
+	- Remove read permissions from the group for the `access.txt` file 
 
-
+7. 
 
 *  *  * 
 
