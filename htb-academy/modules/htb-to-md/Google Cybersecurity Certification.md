@@ -995,8 +995,8 @@ How many customers live in Mountain View and work for Google Inc ?.
 	monitors
 
 
-9. What is an example of a workflow 
-
+9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)? 
+	 
 
 
 
