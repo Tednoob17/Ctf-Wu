@@ -887,9 +887,14 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 6. What is malicious code that is inserted into a vulnerable application called ?
 
+	Injection attack
 
 
-7. 
+7. Fill in the blank: A <-----> cross-site scripting (XSS) attack is an instance when malicious script exists in the webpage a browser loads.
+	DOM-based
+
+
+8. 
 
 
 
