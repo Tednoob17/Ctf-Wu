@@ -885,7 +885,11 @@ How many customers live in Mountain View and work for Google Inc ?.
 5. Fill in the blank: Cryptojacking is a type of malware that uses someone's device to <----> cryptocurrencies.
 	mine
 
-6. 
+6. What is malicious code that is inserted into a vulnerable application called ?
+
+
+
+7. 
 
 
 
