@@ -955,23 +955,23 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
+
+
 # 🎩
 ## Course 6 - Week 1 (Sound the Alarm,  Detection)
-
 
 
 1. Which of the following statements describe security incidents and events ?
 	All security incidents are events,but not all events are security incidents.
 
 
-
 2.  What process is used to provide a blueprint for effective incident response ?
+	
 
+3. 
+	
 
-
-
-
-
+4. 
 * * *
 
 
