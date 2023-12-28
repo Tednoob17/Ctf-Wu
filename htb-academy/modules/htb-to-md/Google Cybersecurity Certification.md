@@ -986,7 +986,15 @@ How many customers live in Mountain View and work for Google Inc ?.
 	Monitoring activity
 
 
-7. 
+7. What are examples of tools used for documentation ? Select two answers .
+	- Audio recorders
+	- Cameras
+
+8. Fill in the blank: An intrusion detection system (IDS) <----> system activity and alerts on possible intrusions.
+	monitors
+
+
+9. What is an example 
 
 
 
