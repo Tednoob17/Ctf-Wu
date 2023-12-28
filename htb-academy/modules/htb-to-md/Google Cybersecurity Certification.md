@@ -567,34 +567,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 ## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
 
 
-1. Which of the following statements accurately describe operating systems ? Select all that apply.
-	- Operating systems are the interfaces between computer hardware and user.
-	- Computers, smartphones, and tablets all have operating systems.
-	- Operating systems are responsible for making computers run efficiently.
-
-2. Which of the following operating systems were designed to run on mobile devices? Select two answers.
-	- IOS
-	- Android
-
-3. What does BIOS load in order to start an operating system ?
-	The bootloader
-
-4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and direct them to the appropriate <---->
-	Components of the computers hardware
-
-5. What  happens when you use applications on your computers ? Select three answers.
-	- The application sends your request to the operating system.
-	- The operate system interprets a request from the application and directs it to the appropriate components of the computer's hardware.
-	- The hardware sends information back to the operating system, which is sent back to the application.
-
-6. Which of the following are key types of user interfaces? Select two answers.
-	- Command line
-	- Graphical
-
-
-7. 
-
-
+1. What is an effect of Linux being open source  ?
+	It allows for collaboration among a community of developers .
 
 
 
