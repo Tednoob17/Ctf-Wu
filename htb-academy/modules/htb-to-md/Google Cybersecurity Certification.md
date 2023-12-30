@@ -1272,4 +1272,7 @@ print(approved_users[1])
 
 	"elarson"
  
-7. 
+7. Fill in the blank: Determining that you need to use string slicing and a `for` loop to extract information from items in a lists is part of creating a(n) <---->
+	algorithm
+
+8. 
