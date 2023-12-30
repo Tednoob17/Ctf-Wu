@@ -1427,6 +1427,6 @@ logins = "pwashing jhill tshah"
 
 3. Continuing your security education demonstrates your willingness to remain current on what's happening in the security industry.Which of the following sites provides news, analysis, and research on various security security topics ?
 
-	
+	CSO online
 
 4. 
