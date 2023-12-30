@@ -1298,6 +1298,14 @@ print(approved_users[1])
 
 2. The purpose of the following code is to search a list .Run this code analyze its output, and then debug it . (If you want to undo your changes to the code, you can click the Reset button.)
 
+   ```python3
+	def search_list(user_name)
+	    for item in username :
+	       print(item)
+	search_list(["elarson", "bmoreno", "tshah"])
+   ```
+
+
 	
 
 3. 
