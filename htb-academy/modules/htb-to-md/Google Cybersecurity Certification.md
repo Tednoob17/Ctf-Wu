@@ -1334,4 +1334,8 @@ for user in list:
 	 
 
 
-7. 
+7.  What does the following code do ?
+
+
+
+8. 
