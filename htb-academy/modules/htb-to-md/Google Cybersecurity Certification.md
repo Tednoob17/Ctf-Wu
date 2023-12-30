@@ -1175,7 +1175,17 @@ if the value in the attempts variable is `3` , what will Python do ?
 
 
 3. In the following code, what is the argument ?
+```
+def welcome_user (name) :
+
+   print("Welcome," name)
+   
+username="elarson"
+
+welcome_user(username)
+```
+
+	
 
 
-
-4. 
+4.  
