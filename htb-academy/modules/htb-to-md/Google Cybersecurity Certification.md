@@ -1440,4 +1440,8 @@ logins = "pwashing jhill tshah"
 	- Read and comment on the social media of leaders in the security.
 	- Follow leaders in the security industry.
 
-7. 
+7. Fill in the blank: <------> for the name of the CISO of organization is a good first step to findings a CISO to follow on social media.
+	Conducting an intern
+
+
+8. 
