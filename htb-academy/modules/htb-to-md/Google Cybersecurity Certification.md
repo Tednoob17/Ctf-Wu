@@ -1390,4 +1390,8 @@ logins = "pwashing jhill tshah"
 	customer data
 
 
-6. Fill in the blank: The decisions a security analyst makes can affect the organization that the analyst works for and other team members across the organization. These decisions also affect <---->
+6. Fill in the blank: The decisions a security analyst makes can affect the organization that the analyst works for and other team members across the organization. These decisions also affect <---->.
+
+	The customers of the organization that hired the analyst
+
+7. A security analyst notices that an employee has installed an app on their work computer without getting permission from the IT desk. 
