@@ -1308,4 +1308,4 @@ print(approved_users[1])
 
 	A missing colon (`:`) 
 
-3. 
+3. The purpose of the following code is to iterate through a list and print a warning message if it find `"user3"` in the list. R
