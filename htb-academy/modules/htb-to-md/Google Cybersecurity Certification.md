@@ -1437,3 +1437,7 @@ logins = "pwashing jhill tshah"
 	Finding them on social media
 
 6. You've recently completed the Google Cybersecurity Certificate and decide it's time to connect with other security professionals.Which of  the following is a great way to connect with security professionals on social media ? Select two answers.
+	- Read and comment on the social media of leaders in the security.
+	- Follow leaders in the security industry.
+
+7. 
