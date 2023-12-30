@@ -1390,4 +1390,4 @@ logins = "pwashing jhill tshah"
 	customer data
 
 
-6. 
+6. Fill in the blank: The decisions a security analyst makes can affect the organization that the analyst works for and other team members across the organization. These decisions also affect <---->
