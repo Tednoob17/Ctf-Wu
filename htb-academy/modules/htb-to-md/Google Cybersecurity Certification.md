@@ -1444,4 +1444,8 @@ logins = "pwashing jhill tshah"
 	Conducting an internet search
 
 
-8. 
+8. What is a good way to find other security analysts in the industry to follow on social media ?
+	
+
+
+9. 
