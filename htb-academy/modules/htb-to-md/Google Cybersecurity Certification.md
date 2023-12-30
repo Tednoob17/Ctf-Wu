@@ -1263,4 +1263,13 @@ welcome_user(username)
 
 	 `[1, 2, 3, "a", "b", "c"]` 
 
-6. 
+6. What is output of the following code ?
+```python3
+approved_users = ["bmoreno", "elarson", "tshah", "eraab"]
+print(approved_users[1])
+
+```
+
+	`""`
+
+7. 
