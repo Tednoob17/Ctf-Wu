@@ -1436,4 +1436,4 @@ logins = "pwashing jhill tshah"
 5. Which of the following is a great way to connect with other security professional in the industry ?
 	Finding them on social media
 
-6. You've recently completed the Google Cybersecurity Certificate and decide it's time to connect with other security professionals.Which of 
+6. You've recently completed the Google Cybersecurity Certificate and decide it's time to connect with other security professionals.Which of  the following is a great way to connect with security
