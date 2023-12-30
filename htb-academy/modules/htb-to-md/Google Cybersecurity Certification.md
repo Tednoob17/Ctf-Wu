@@ -1165,4 +1165,8 @@ if the value in the attempts variable is `3` , what will Python do ?
 
 
 
-1. 
+1. Which of the following components are part of the header in a function definition ? Select all that apply. 
+	- The keyword `def`
+	- The name of the function
+
+2. 
