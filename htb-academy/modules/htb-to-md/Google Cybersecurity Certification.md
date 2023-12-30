@@ -1198,4 +1198,8 @@ welcome_user(username)
   `print (max (1,3,7))`
 	 `7`
 
-6. 
+6. What is returned from following user-defined function if you pass it the arguments `2` and `3` ?
+
+	
+
+7. 
