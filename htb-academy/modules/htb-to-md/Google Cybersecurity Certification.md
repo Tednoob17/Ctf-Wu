@@ -1169,8 +1169,13 @@ if the value in the attempts variable is `3` , what will Python do ?
 	- The keyword `def`
 	- The name of the function
 
+
 2. Which of the following calls to the `type ()` function uses correct syntax ?
 	`type ([55, 81, 17])` 
 
 
 3. In the following code, what is the argument ?
+
+
+
+4. 
