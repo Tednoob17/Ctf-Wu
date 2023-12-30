@@ -1374,3 +1374,7 @@ logins = "pwashing jhill tshah"
 
 
 2. As a security analyst, you are responsible for protecting an organization's low-level assets and high-level assets.Which of the following is considered a high-level asset ?
+	Intellectual property
+
+
+3. 
