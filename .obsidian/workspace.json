@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "635cc6343f683590",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "31e561e674494d67",
             "type": "leaf",
             "state": {
@@ -155,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08aa2ffe8e0a3523",
+  "active": "3525b92c863576fd",
   "lastOpenFiles": [
     "htb-academy/modules/htb-to-md/Google Cybersecurity Certification.md",
     "RHEL8-Fundamentals.pdf",
