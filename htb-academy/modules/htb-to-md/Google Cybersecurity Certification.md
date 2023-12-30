@@ -1252,4 +1252,15 @@ welcome_user(username)
 	- `"w36"` 
 
 
-5. 
+5. What is the output of the following code ?
+   ```python3
+   list1 = [1, 2, 3]
+ 
+   list2 = ["a", "b", "c"]
+
+   print(list1 + list2)
+   ```
+
+	 
+
+6. 
