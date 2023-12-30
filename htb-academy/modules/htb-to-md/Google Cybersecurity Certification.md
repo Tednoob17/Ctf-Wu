@@ -1245,4 +1245,7 @@ welcome_user(username)
 	print("bmoreno".upper())
 
 
-3. 
+3. In the string `"network"`, which character has an index of `1` ?
+	 `"e"` 
+
+4. 
