@@ -1206,6 +1206,9 @@ welcome_user(username)
   add(2, 3)
 ```
 
-	 
+	 5
 
-7. 
+7.  What does PEP 8 contain ?
+	 Stylistic guidelines for programmers working in python
+
+8. 
