@@ -18,24 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "635cc6343f683590",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "31e561e674494d67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
