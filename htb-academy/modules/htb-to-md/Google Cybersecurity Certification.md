@@ -1229,3 +1229,14 @@ welcome_user(username)
 
 10. Fill in the blank: A python file that contains additional functions, variables, classes, and any kind of runnable code is called a <---->
 	module
+
+
+
+
+
+
+
+
+# ⚜️
+## Course 7 - Week 3 Automate Cyber security Tasks with python)
+
