@@ -1336,10 +1336,10 @@ for user in list:
 
 7.  What does the following code do ?
   ```python3
- logins = "pwashing jhill tshah"
+logins = "pwashing jhill tshah"
 
- usenames = logins.split()
-  ```
+ usenames = logins.split() 
+ ```
 
 - Split a string called `logins` into a list of strings and stores it in the variable `usernames` .
 
@@ -1348,9 +1348,9 @@ for user in list:
 
 
 9. What does the following code do ?
- `new_format = old_format.read()` 
+    `new_format = old_format.read()` 
 
-	
+	Read the `old_format` 
 
 
 
