@@ -1084,7 +1084,11 @@ examination. On which part of the chain of custody form should they sign their n
 	Flow 
 
 
-7. 
+7.  What is the difference between network telemetry and network alert logs ?
+
+	Network telemetry contains information about network traffic flows, network alert logs are the output of a signature.
+
+8
 * * *
 
 
