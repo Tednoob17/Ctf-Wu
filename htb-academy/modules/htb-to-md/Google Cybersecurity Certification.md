@@ -1211,4 +1211,9 @@ welcome_user(username)
 7.  What does PEP 8 contain ?
 	 Stylistic guidelines for programmers working in python
 
-8. 
+8. What is an advantage of including this comment in the following code ? Select all that apply.
+ ```python3
+```
+
+
+9. 
