@@ -1071,10 +1071,16 @@ examination. On which part of the chain of custody form should they sign their n
 	 JSON
 
 4. Fill in the blank: <----> analysis is a detection method used to find events of interest using patterns.
-	
+	 Signature 
 
 
+5. What information is included in a signature's header ? Select all that apply.
 
+	 - Protocol
+	 - Port number
+	 - IP address
+
+6. Which rule option is used to match based on the direction of network 
 * * *
 
 
