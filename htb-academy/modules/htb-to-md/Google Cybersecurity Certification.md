@@ -1241,4 +1241,8 @@ welcome_user(username)
 	`print (len(username))` 
 
 
-2. 
+2. Which line of code returns a copy of the string `"bmoreno"` as `"BMORENO"`  ?
+	print("bmoreno".upper())
+
+
+3. 
