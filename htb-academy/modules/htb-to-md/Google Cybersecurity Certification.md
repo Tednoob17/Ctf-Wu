@@ -1348,7 +1348,9 @@ for user in list:
 
 
 9. What does the following code do ?
-	The process of c
+ `new_format = old_format.read()` 
+
+	
 
 
 
