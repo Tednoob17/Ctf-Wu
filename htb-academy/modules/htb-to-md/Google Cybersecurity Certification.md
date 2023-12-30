@@ -1160,9 +1160,9 @@ if the value in the attempts variable is `3` , what will Python do ?
 	`for i in [1, 2, 3]`
 
 
-
 # ⚜️
 ## Course 7 - Week 2 Automate Cyber security Tasks with python)
+
 
 
 1. 
