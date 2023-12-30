@@ -1091,7 +1091,7 @@ examination. On which part of the chain of custody form should they sign their n
 8. Which type of Splunk query searches through unstructured log records ?
 	Raw log search 
 
-9. 
+9. What is the default method of search in Chronicle ?
 * * *
 
 
