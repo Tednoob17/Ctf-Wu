@@ -1370,6 +1370,7 @@ logins = "pwashing jhill tshah"
 ## Course 8 week 1 (Put it to work, Prepare for cybersecurity jobs)
 
 1. Fill in the blank: A security mindset is the <---->.
-	
+	ability to evaluate risk and constantly seek out identity the potential or actual breach of a system, application, or data.
+
 
 2. 
