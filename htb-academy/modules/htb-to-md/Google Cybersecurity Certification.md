@@ -1347,4 +1347,10 @@ for user in list:
 	The process of converting data into a more readable format.
 
 
-9. 
+9. What does the following code do ?
+	The process of c
+
+
+
+
+10. 
