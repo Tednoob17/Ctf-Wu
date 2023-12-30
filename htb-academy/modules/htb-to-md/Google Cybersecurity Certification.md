@@ -1261,6 +1261,6 @@ welcome_user(username)
    print(list1 + list2)
    ```
 
-	 
+	 `[1, 2, 3, "a", "b", "c"]` 
 
 6. 
