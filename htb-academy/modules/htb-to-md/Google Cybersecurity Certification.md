@@ -1034,8 +1034,8 @@ examination. On which part of the chain of custody form should they sign their n
 7. Fill in the blank: Containment is the act of limited and <----> additional damage caused by an incident.
 	 preventing
 
-
-
+8. Which step of the NIST Incident Response Lifecycle involves returning affected systems back to normal operations ?
+	Recovery
 
 
 
