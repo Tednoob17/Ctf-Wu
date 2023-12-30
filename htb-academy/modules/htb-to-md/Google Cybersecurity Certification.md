@@ -1335,6 +1335,11 @@ for user in list:
 
 
 7.  What does the following code do ?
+ ```python3
+ logins = "pwashing jhill tshah"
+
+ usenames = logins.split()
+```
 
 
 
