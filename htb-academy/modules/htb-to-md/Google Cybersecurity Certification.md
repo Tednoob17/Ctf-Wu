@@ -1423,8 +1423,8 @@ logins = "pwashing jhill tshah"
 	Incident escalation
 
 
-2. 
-
+2. Fill in the blank: <----> is a skill hat will help you identify security incidents that need to be escalated. 
+	
 
 
 
