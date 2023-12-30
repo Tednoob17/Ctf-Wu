@@ -1040,9 +1040,9 @@ examination. On which part of the chain of custody form should they sign their n
 
 9. Fill in the blank: A lessons learned meeting should be held within <---->  weeks of an incident.
 	two
-
-10. 
-
+ 
+10. During a lessons learned meeting following an incident, a meeting participant wants to identify actions that the organization can take to prevent similar incidents from occurring in the future.
+	
 
 
 
