@@ -1286,3 +1286,8 @@ print(approved_users[1])
 	Adds `"h32rb17"` to the end of the `device_ids` list
 
 
+
+
+
+# ⚜️
+## Course 7 - Week 4 Automate Cyber security Tasks with python)
