@@ -1430,10 +1430,10 @@ logins = "pwashing jhill tshah"
 	improper usage
 
 
-4. An employee attempting to access software on their work device for personal use can be example 
+4. An employee attempting to access software on their work device for personal use can be example what security incident type ?
+	Improper usage
 
-
-
+	1. Which  
 
 
 
