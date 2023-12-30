@@ -1433,4 +1433,5 @@ logins = "pwashing jhill tshah"
 	 Dark Reading
 
 
-5.Which of the following is a great way to connect with other security professional in the industry ?
+5. Which of the following is a great way to connect with other security professional in the industry ?
+	Finding them on social media
