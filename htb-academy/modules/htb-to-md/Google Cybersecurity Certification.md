@@ -1430,7 +1430,64 @@ logins = "pwashing jhill tshah"
 	improper usage
 
 
-4. 
+4. An employee attempting to access software on their work device for personal use can be example 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # + 
