@@ -1280,3 +1280,6 @@ print(approved_users[1])
 	Any alphanumeric character 
 
 9. What module do you need to import to use regular expressions in python ?
+	 `re` 
+
+10.  What does the code `device_ids.append()`
