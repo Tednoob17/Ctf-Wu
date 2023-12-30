@@ -1423,10 +1423,10 @@ logins = "pwashing jhill tshah"
 	Incident escalation
 
 
-2. Fill in the blank: <----> is a skill hat will help you identify security incidents that need to be escalated. 
-	
+2. Fill in the blank: <----> is a skill that will help you identify security incidents that need to be escalated. 
+	Attention to detail
 
-
+3. 
 
 
 # + 
