@@ -1296,4 +1296,8 @@ print(approved_users[1])
 	The practice of identifying and fixing errors in code.  
 
 
-2. The purpose of the following code is to search 
+2. The purpose of the following code is to search a list .Run this code analyze its output, and then debug it . (If you want to undo your changes to the code, you can click the Reset button.)
+
+	
+
+3. 
