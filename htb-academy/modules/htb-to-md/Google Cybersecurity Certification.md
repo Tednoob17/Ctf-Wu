@@ -1223,4 +1223,8 @@ welcome_user(username)
 	- It can help other programmers understand the purpose of this  loop.
 
 
-9. 
+9. What are built-in functions ?  
+	Functions that exist with and can be called directly
+
+
+10. 
