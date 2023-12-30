@@ -1402,4 +1402,8 @@ logins = "pwashing jhill tshah"
 	A security event that results in a data breach 
 
 
-9. 
+9. Fill in the blank: An organization is responsible for protecting its customer's sensitive data.
+   Examples of the kinds of sensitive data that must be protected include <----> and <----> .Select two answers.
+ 
+	 
+ 
