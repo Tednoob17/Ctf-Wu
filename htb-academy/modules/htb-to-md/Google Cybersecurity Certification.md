@@ -1343,4 +1343,8 @@ for user in list:
 
 - Split a string called `logins` into a list of strings and stores it in the variable `usernames` .
 
-8. 
+8. What is parsing ? 
+	The process of converting data into a more readable format.
+
+
+9. 
