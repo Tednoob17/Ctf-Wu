@@ -1415,28 +1415,11 @@ logins = "pwashing jhill tshah"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # + 
 ## Course 8 week 2 (Put it to work, Prepare for cybersecurity jobs)
 
 
-
+1. What security 
 
 
 
