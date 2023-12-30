@@ -1407,4 +1407,5 @@ logins = "pwashing jhill tshah"
  
 	 - social security numbers
 	 - bank statements
- 
+10. Fill in the blank: <----> can occur if an organization's data essential assets are compromised in a way that disrupts its business operations.
+	Financial loss
