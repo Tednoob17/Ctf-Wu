@@ -1237,4 +1237,8 @@ welcome_user(username)
 # ⚜️
 ## Course 7 - Week 3 Automate Cyber security Tasks with python)
 
-1. 
+1. Which line of code returns the number of characters in the string assigned to the `username` variable ?
+	`print (len(username))` 
+
+
+2. 
