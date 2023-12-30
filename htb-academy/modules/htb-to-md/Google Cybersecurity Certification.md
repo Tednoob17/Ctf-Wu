@@ -1080,7 +1080,11 @@ examination. On which part of the chain of custody form should they sign their n
 	 - Port number
 	 - IP address
 
-6. Which rule option is used to match based on the direction of network 
+6. Which rule option is used to match based on the direction of network  traffic ?
+	Flow 
+
+
+7. 
 * * *
 
 
