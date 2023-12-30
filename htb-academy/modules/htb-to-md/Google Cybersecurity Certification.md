@@ -1185,7 +1185,13 @@ username="elarson"
 welcome_user(username)
 ```
 
-	
+
+	username
 
 
-4.  
+4.  Fill in the blank: A collection of modules that users can access in their programs is a <---->.
+
+
+
+
+5. 
