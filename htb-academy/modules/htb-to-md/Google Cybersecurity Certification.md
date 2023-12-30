@@ -1028,7 +1028,7 @@ examination. On which part of the chain of custody form should they sign their n
 5. An analyst is responding to a distributed denial of service attack (DDos).They take several manual steps outlined in the organization's DDos playbook.Which type of playbook did they use to respond to the incident ?
 	Non-automated
 
-6. What are the step of the triage process in the correct 
+6. What are the step of the triage process in the correct order ?
 
 
 
