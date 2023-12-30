@@ -1330,7 +1330,8 @@ for user in list:
 
 6. If you want to read a file called `"logs.txt"`, which line of code allows you to open this file for purposes of reading it and store it in a variable called `file` ? 
 
-
+	 `with open ("logs.txt", "r") as file :`
+	 
 
 
 7. 
