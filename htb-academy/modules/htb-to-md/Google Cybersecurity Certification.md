@@ -1379,6 +1379,6 @@ logins = "pwashing jhill tshah"
 
 3. Fill in the blank: A security mindset helps a security analyst <---->.
 
-
+	Defend against constant pressure from cyber attackers.
 
 4. 
