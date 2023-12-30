@@ -1088,7 +1088,10 @@ examination. On which part of the chain of custody form should they sign their n
 
 	Network telemetry contains information about network traffic flows, network alert logs are the output of a signature.
 
-8
+8. Which type of Splunk query searches through unstructured log records ?
+	Raw log search 
+
+9. 
 * * *
 
 
