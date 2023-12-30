@@ -1219,6 +1219,8 @@ welcome_user(username)
        print("alert")
 ```
 
-	
+	- It can help you understand the code if reisit it in the furure.
+	- It can help other programmers understand the purpose of this  loop.
+
 
 9. 
