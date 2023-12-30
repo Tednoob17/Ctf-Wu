@@ -1275,4 +1275,8 @@ print(approved_users[1])
 7. Fill in the blank: Determining that you need to use string slicing and a `for` loop to extract information from items in a lists is part of creating a(n) <---->
 	algorithm
 
-8. 
+8. What does the `\w` symbol match to in a regular expression ?
+
+	Any alphanumeric character 
+
+9. What module do you need to import to use regular expressions in python ?
