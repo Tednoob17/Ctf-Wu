@@ -1426,7 +1426,11 @@ logins = "pwashing jhill tshah"
 2. Fill in the blank: <----> is a skill that will help you identify security incidents that need to be escalated. 
 	Attention to detail
 
-3.  Fill in the blank: Entry-level analysts might need to escalate various incident types, incident types, 
+3.  Fill in the blank: Entry-level analysts might need to escalate various incident types, incident types, including <---->.
+	improper usage
+
+
+4. 
 
 
 # + 
