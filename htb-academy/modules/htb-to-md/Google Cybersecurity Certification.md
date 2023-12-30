@@ -1195,3 +1195,7 @@ welcome_user(username)
 
 
 5. What does this line of code return ?
+  `print (max (1,3,7))`
+	
+
+6. 
