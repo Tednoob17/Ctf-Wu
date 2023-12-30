@@ -1350,7 +1350,7 @@ logins = "pwashing jhill tshah"
 9. What does the following code do ?
     `new_format = old_format.read()` 
 
-	Read the `old_format` 
+	Read the `old_format` variable, which contains a file, and stores it as a string in `new_format` 
 
 
 
