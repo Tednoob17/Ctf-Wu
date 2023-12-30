@@ -1058,8 +1058,20 @@ examination. On which part of the chain of custody form should they sign their n
 2. Examine the following log : `LoginEvent [2021/10/13 10:32:08.954711] auth_session_authenticator.cc:304 Regular user login 1 ` 
 	Authentication
 
+3. Examine the following log: 
+```log
+{
+       "name": "System test",
+       "host": "167.155.183.139",
+       "id": 11111,
+       "Message": [error] test,
+}
+```
 
+	 JSON
 
+4. Fill in the blank: <----> analysis is a detection method used to find events of interest using patterns.
+	
 
 
 
