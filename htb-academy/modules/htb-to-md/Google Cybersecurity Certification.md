@@ -1031,8 +1031,8 @@ examination. On which part of the chain of custody form should they sign their n
 6. What are the step of the triage process in the correct order ?
 	Receive and assess, assign priority, collect and analyze
 
-7. 
-
+7. Fill in the blank: Containment is the act of limited and <----> additional damage caused by an incident.
+	 preventing
 
 
 
