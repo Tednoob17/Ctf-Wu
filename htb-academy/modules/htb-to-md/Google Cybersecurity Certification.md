@@ -1335,12 +1335,12 @@ for user in list:
 
 
 7.  What does the following code do ?
- ```python3
+  ```python3
  logins = "pwashing jhill tshah"
 
  usenames = logins.split()
-```
+  ```
 
-
+- Split a string called `logins` into a list of strings and stores it in the variable `usernames` .
 
 8. 
