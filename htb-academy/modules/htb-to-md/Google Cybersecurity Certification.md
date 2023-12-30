@@ -1394,4 +1394,4 @@ logins = "pwashing jhill tshah"
 
 	The customers of the organization that hired the analyst
 
-7. A security analyst notices that an employee has installed an app on their work computer without getting permission from the IT desk. 
+7. A security analyst notices that an employee has installed an app on their work computer without getting permission from the IT desk. The security analyst also notices that antivirus.
