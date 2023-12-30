@@ -1445,7 +1445,7 @@ logins = "pwashing jhill tshah"
 
 
 8. What is a good way to find other security analysts in the industry to follow on social media ?
-	
+	 Search for cybersecurity analysts on *Linkedin* 
 
 
 9. 
