@@ -1373,4 +1373,4 @@ logins = "pwashing jhill tshah"
 	ability to evaluate risk and constantly seek out identity the potential or actual breach of a system, application, or data.
 
 
-2. 
+2. As a security analyst, you are responsible for protecting an organization's low-level assets and high-level assets.Which of the following is considered a high-level asset ?
