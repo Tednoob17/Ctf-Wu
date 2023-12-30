@@ -1323,4 +1323,7 @@ for user in list:
 4. You included `username_list[10]` in your code, but `username_list` only contains five elements.What type of error is this ?
 	Exception
 
-5. 
+5. Why might you use print statements when debugging code ?
+	To 
+
+6. 
