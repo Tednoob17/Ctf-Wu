@@ -1049,6 +1049,15 @@ examination. On which part of the chain of custody form should they sign their n
 # 🎩
 ## Course 6 - Week 4 (Sound the Alarm,  Detection)
 
+1. What details do logs contain ? Select all that apply.
+	 - Date
+	 - Time
+	 - Location
+
+
+2. Examine the following log : `LoginEvent [2021/10/13 10:32:08.954711] auth_session_authenticator.cc:304 Regular user login 1 ` 
+	Authentication
+
 
 
 
