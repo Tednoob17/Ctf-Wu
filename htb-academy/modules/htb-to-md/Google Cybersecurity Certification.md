@@ -1381,4 +1381,8 @@ logins = "pwashing jhill tshah"
 
 	Defend against constant pressure from cyber attackers.
 
-4. 
+4. Which of the following examples are considered public data ? Select two answers.
+
+
+
+5. 
