@@ -1412,8 +1412,38 @@ logins = "pwashing jhill tshah"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # + 
 ## Course 8 week 2 (Put it to work, Prepare for cybersecurity jobs)
+
+
+
+
+
+
+
+
+# + 
+## Course 8 week 4 (Put it to work, Prepare for cybersecurity jobs)
 
 
 
@@ -1454,3 +1484,9 @@ logins = "pwashing jhill tshah"
 
 10. What is the best search term to use to find a security organization to join ?
 	"Cybersecurity industry associations"
+
+
+
+
+
+
