@@ -1328,4 +1328,4 @@ for user in list:
 	To identify which sections of the code are working properly .
 
 
-6. If you want to read a file called `"logs.txt"`, which line of code allows you to open this file for purposes of reading it and store it in a variable 
+6. If you want to read a file called `"logs.txt"`, which line of code allows you to open this file for purposes of reading it and store it in a variable called `file` ? 
