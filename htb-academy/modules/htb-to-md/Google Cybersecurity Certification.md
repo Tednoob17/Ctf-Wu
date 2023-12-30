@@ -1399,7 +1399,7 @@ logins = "pwashing jhill tshah"
 
 
 8. Which of the following defines a security incident ? 
-	
+	A security event that results in a data breach 
 
 
 9. 
