@@ -1213,7 +1213,12 @@ welcome_user(username)
 
 8. What is an advantage of including this comment in the following code ? Select all that apply.
  ```python3
+  # For loop iterates to print an alert message 5 times
+
+  for i in range(5) :
+       print("alert")
 ```
 
+	
 
 9. 
