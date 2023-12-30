@@ -1355,4 +1355,4 @@ logins = "pwashing jhill tshah"
 
 
 
-10. You want to check for unusual login activity.Specially, you want to read a log file that contains information on each login attempt, including whether it failed or was successful. You should then parse the data 
+10. You want to check for unusual login activity.Specially, you want to read a log file that contains information on each login attempt, including whether it failed or was successful. You should then parse the data into a `logins` list, and then you  should separate all failed log entries into a separate `failed_logins` list.If you want to automate this through Pyth
