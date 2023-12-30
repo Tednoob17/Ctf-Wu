@@ -1291,3 +1291,9 @@ print(approved_users[1])
 
 # ⚜️
 ## Course 7 - Week 4 Automate Cyber security Tasks with python)
+
+1. What is debugging ?
+	The practice of identifying and fixing errors in code.  
+
+
+2. The purpose of the following code is to search 
