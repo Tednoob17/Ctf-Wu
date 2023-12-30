@@ -1320,4 +1320,7 @@ for user in list:
 
 	Change the != operator to the == operator in the conditional. 
 
-4. You included `username_list[10]` in your code, but `username_list` only contains five
+4. You included `username_list[10]` in your code, but `username_list` only contains five elements.What type of error is this ?
+	Exception
+
+5. 
