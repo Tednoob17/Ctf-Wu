@@ -1419,7 +1419,7 @@ logins = "pwashing jhill tshah"
 ## Course 8 week 2 (Put it to work, Prepare for cybersecurity jobs)
 
 
-1. What security 
+1. What security term describes the identification of a potential security event, training it, and handing it
 
 
 
