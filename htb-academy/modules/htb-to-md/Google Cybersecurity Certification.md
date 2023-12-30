@@ -1308,4 +1308,16 @@ print(approved_users[1])
 
 	A missing colon (`:`) 
 
-3. The purpose of the following code is to iterate through a list and print a warning message if it find `"user3"` in the list. R
+3. The purpose of the following code is to iterate through a list and print a warning message if it find `"user3"` in the list. Run this code, analyze its output, and debug it. (If you want to undo your changes to the code, you can click the Reset button)
+
+```python3
+list = ["user1", "user2", "user3", "user4"]
+for user in list:
+   if user == "user3":
+        print("Warning: user3 should not access the system")
+```
+
+
+
+
+4. 
