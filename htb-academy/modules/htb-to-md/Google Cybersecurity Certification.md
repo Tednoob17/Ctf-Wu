@@ -1199,7 +1199,13 @@ welcome_user(username)
 	 `7`
 
 6. What is returned from following user-defined function if you pass it the arguments `2` and `3` ?
+ ```python3
+  def add(num1, num2) :
+      result = num1 + num2
+      return result
+  add(2, 3)
+```
 
-	
+	 
 
 7. 
