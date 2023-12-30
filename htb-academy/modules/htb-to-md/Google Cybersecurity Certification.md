@@ -1046,6 +1046,8 @@ examination. On which part of the chain of custody form should they sign their n
 
 
 
+# 🎩
+## Course 6 - Week 4 (Sound the Alarm,  Detection)
 
 
 
@@ -1111,5 +1113,6 @@ if the value in the attempts variable is `3` , what will Python do ?
 
 9. What iterative statement should you use if you use want to print the number `1` , `2`, `3` ?
 	`for i in [1, 2, 3]`
+
 
 
