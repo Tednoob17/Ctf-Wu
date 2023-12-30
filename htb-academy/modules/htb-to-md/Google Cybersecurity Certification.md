@@ -1313,11 +1313,11 @@ print(approved_users[1])
 ```python3
 list = ["user1", "user2", "user3", "user4"]
 for user in list:
-   if user == "user3":
+   if user != "user3":
         print("Warning: user3 should not access the system")
 ```
 
 
+	Change the != operator to the == operator in the conditional. 
 
-
-4. 
+4. You included `username_list[10]` in your code, but `username_list` only contains five
