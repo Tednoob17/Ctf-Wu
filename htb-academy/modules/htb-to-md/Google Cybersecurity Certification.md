@@ -1249,3 +1249,7 @@ welcome_user(username)
 	 `"e"` 
 
 4. You need to take a spice from a device ID. Specifically, you must extract the characters with indices of `8`,`9` and `10` . Complete the python code to take this slice and display it. (If you want to undo your changes to the code, you can click the Reset button.) 
+	- `"w36"` 
+
+
+5. 
