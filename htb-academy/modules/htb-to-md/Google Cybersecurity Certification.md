@@ -1282,4 +1282,7 @@ print(approved_users[1])
 9. What module do you need to import to use regular expressions in python ?
 	 `re` 
 
-10.  What does the code `device_ids.append()`
+10.  What does the code `device_ids.append("h32rb17")` do ?
+	Adds `"h32rb17"` to the end of the `device_ids` list
+
+
