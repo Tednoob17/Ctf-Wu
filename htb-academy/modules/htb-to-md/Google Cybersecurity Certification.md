@@ -1234,9 +1234,7 @@ welcome_user(username)
 
 
 
-
-
-
 # ⚜️
 ## Course 7 - Week 3 Automate Cyber security Tasks with python)
 
+1. 
