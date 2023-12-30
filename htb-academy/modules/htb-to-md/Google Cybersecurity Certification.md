@@ -1095,7 +1095,9 @@ examination. On which part of the chain of custody form should they sign their n
 	UDM
 
 10. Fill in the blank: SIEM tools <----> raw data so that it is formatted consistently.
-	
+	 ingest ?
+
+
 
 * * *
 
