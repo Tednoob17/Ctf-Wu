@@ -1377,4 +1377,8 @@ logins = "pwashing jhill tshah"
 	Intellectual property
 
 
-3. 
+3. Fill in the blank: A security mindset helps a security analyst <---->.
+
+
+
+4. 
