@@ -36,6 +36,8 @@
 	- An example of SPII is someone financial information .
 
 
+
+
 # 💫
 ## Course 1 - Week 2 (Foundations of Cybersecurity)
 
@@ -73,6 +75,8 @@
 
 10. Which domain involves conducting investigations and implementing preventive measures ?
 	Security operations
+
+
 
 
 # 💫
@@ -114,6 +118,9 @@
 
 10. You are security professional working for a state motor vehicle agency that stores drivers national identification numbers and banking information. Which ethical principle involves adhering to rules that intended to protect these types of data ?
 	Laws 
+
+
+
 
 
 # 💫 
@@ -162,6 +169,7 @@
 
 
 
+
 *  * * 
 # 🌵
 ## Course 2 - Week 1 (Play it Safe Manage,  Security Risk)
@@ -201,6 +209,7 @@
 
 10. In the Risk Management Framework (RMF), which step involves knowning how current systems are operating and if they support security goals ?
 	Monitor
+
 
 
 
@@ -250,6 +259,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- A summary of the goals .
 
 
+
+
 # 🌵
 ## Course 2 - Week 3 (Play it Safe Manage,  Security Risk)
 
@@ -295,6 +306,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+
 # 🌵
 ## Course 2 - Week 4 (Play it Safe Manage,  Security Risk)
 
@@ -331,6 +343,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- SIEM alerts inform security teams of potential threats.
 	- SIEM tools analyze data.
 	- SIEM tools and playbooks works together to provice an efficient way of handling security incidents.
+
+
 
 
 *   * *
@@ -371,7 +385,6 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
 	IPV6
-
 
 
 
@@ -425,6 +438,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+
+
 # 🍥
 
 ## Course 3 - Week 3 (Connect and Protect Network and Network Security)
@@ -471,6 +486,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Smurf attack 
 
 
+
+
 # 🍥
 
 ## Course 3 - Week 4 (Connect and Protect Network and Network Security)
@@ -512,7 +529,6 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 10. What is one one key similarity between regular web servers and cloud servers?
 	They both require security measures taken by the organization to stay safe .
-
 
 
 
@@ -563,6 +579,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+
 # 🌄
 
 ## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
@@ -606,6 +623,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Information received by the OS via the command line.
 
 
+
 # 🌄
 
 ## Course 4 - Week 3 (Tools of the trade, Linux and SQL)
@@ -646,6 +664,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 10. Given the following permissions `drw-rw-r--`, what permissions does the group have ? Select all that apply.
 	- Read
 	- Write
+
 
 
 
@@ -716,7 +735,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
 *  *  * 
 
 # 🎑
@@ -762,6 +780,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 10. Fill in the blank: CSF profiles provide insights into the <----> state of a security plan.
 	Current
+
 
 
 
@@ -811,9 +830,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
-
 # 🎑
 ## Course 5 - Week 3 (Assets,Threats, and Vulnerabilities)
 
@@ -857,8 +873,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 10. What is *not* a step of practicing an attacker mindset ?
 
 	Identify ways to fix existing vulnerabilities. 
-
-
 
 
 
@@ -909,8 +923,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
-
-
 *  *  * 
 
 
@@ -952,7 +964,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 10. Fill in the blank: During the <----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
 	data collection
-
 
 
 # 🎩
@@ -1000,7 +1011,6 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 10. Fill in the blank: During the <-----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
 	data collection 
-
 
 
 
@@ -1160,6 +1170,7 @@ if the value in the attempts variable is `3` , what will Python do ?
 	`for i in [1, 2, 3]`
 
 
+
 # ⚜️
 ## Course 7 - Week 2 Automate Cyber security Tasks with python)
 
@@ -1232,8 +1243,6 @@ welcome_user(username)
 
 
 
-
-
 # ⚜️
 ## Course 7 - Week 3 Automate Cyber security Tasks with python)
 
@@ -1284,8 +1293,6 @@ print(approved_users[1])
 
 10.  What does the code `device_ids.append("h32rb17")` do ?
 	Adds `"h32rb17"` to the end of the `device_ids` list
-
-
 
 
 
@@ -1351,8 +1358,6 @@ logins = "pwashing jhill tshah"
     `new_format = old_format.read()` 
 
 	Read the `old_format` variable, which contains a file, and stores it as a string in `new_format` 
-
-
 
 
 10. You want to check for unusual login activity.Specially, you want to read a log file that contains information on each login attempt, including whether it failed or was successful. You should then parse the data into a `logins` list, and then you  should separate all failed log entries into a separate `failed_logins` list.If you want to automate this through Python, what would be part of your code ? Select  three answers.
@@ -1459,8 +1464,6 @@ logins = "pwashing jhill tshah"
 
 
 
-
-
 # + 
 ## Course 8 week 3 (Put it to work, Prepare for cybersecurity jobs)
 
@@ -1559,5 +1562,11 @@ logins = "pwashing jhill tshah"
 
 
 
+# + 
+## Course 8 week 5 (Put it to work, Prepare for cybersecurity jobs)
+
+1. Fill in the blank : A resume might also be referred to as <----->.
+	
 
 
+2. 
