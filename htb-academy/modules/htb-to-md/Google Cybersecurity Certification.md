@@ -1850,6 +1850,7 @@ logins = "pwashing jhill tshah"
 	- Collaborated with a team of six to develop training for more than 25 company employees
 	- Conducted monthly vulnerability assessments
 
+
 5. Fill in the blank : Under the education/certification section of your resume, you should list any subjects you studied related to <----> .
 
 	the job you are applying for 
@@ -1880,3 +1881,6 @@ logins = "pwashing jhill tshah"
 10. A potential candidate is interviewing for a security   analyst role . The candidate says the following when responding to a scenario-based question: "My manager took time off from the organization and nominated me to take their place."  Which part of the STAR method does this response demonstrate ?
 
 	 Situation
+
+
+
