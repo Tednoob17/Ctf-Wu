@@ -238,6 +238,7 @@
 
  6. A security team has just finished addressing a recent security incident .They n
 ow conduct tests to ensure that all of heir repairs were successful .Which OWASP principle does this scenario describe ?
+.
 	Fix security issues correctly
 
 7. What are some of the primary objectives of an internal security audit ? Select all that apply .
@@ -247,13 +248,16 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Determine what needs to be improved in order to achieve the desired security posture . 
 
 8. Fill in the blank:  In an internal security audit, <----> refers to identifying people,assets, policies, procedures,and technologies that might impact an organization's security posture.
+
 	scope
 
 
 9. A security analyst perform an internal security audit.They determine that the organization needs to install surveillance cameras at various store locations.What are they working to establish ? 
+
 	Physical controls
 
-10.  What information is tipically communicated to stakeholders after completion of an internal security audit ? Select three answers.
+10.  What information is topically communicated to stakeholders after completion of an internal security audit ? Select three answers.
+.
 	- Existing risks that need to be addressed now or in the future.
 	- Strategies for improving security posture .
 	- A summary of the goals .
@@ -266,17 +270,20 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. Which of the following statements correctly describe logs ? Select three answers.
+
 	- Actions such as login request are recorded in a server log.
 	- Outbound requests to the internet from within a network are recorded in a firewall log.
 	- Security teams monitor logs to identify vulnerabilities and potential data breaches.
 
 
 2. What are some of they benefits of SIEM tools? Select three answers 
+
 	- Deliver automated alerts 
 	- Increase efficiency 
 	- Minimize the number of logs to be manually reviewed .
 
 3. Fill in the blank: A security professional creates a dashboard that displays technical attributes about business operations called <---->, such as incoming and outgoing network traffic.
+
 	metrics
 
 
@@ -284,22 +291,23 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Self-hosted
 
 
-5. You are a security professional, and you want to save time by using a SIEM tool that will be managed by a provider and only be accessible through the internet.What type of toll do you 
-   choose ?
+5. You are a security professional, and you want to save time by using a SIEM tool that will be managed by a provider and only be accessible through the internet.What type of toll do you choose ?
 
 	Cloud-hosted
 
 
-6. Fill in the blank: Splunk Enterprise is a <----> tool used to retain, analyze,and search an 
-   organizational's log data to provide security information and alerts in real-time.
+6. Fill in the blank: Splunk Enterprise is a <----> tool used to retain, analyze,and search an   organizational's log data to provide security information and alerts in real-time.
+
 	Self-hosted
 
 7. Which of the following statements accurately describe Chronicle ? Select three answers.
+
 	- Chronicle is designed to retain, analyze, and search data.
 	- Cloud native tools such as Chronicle are designed to take advantage of cloud computing availability.
 	- Chronicle performs data analysis.
 
 8. What are examples of open-source tools? Select two answers.
+
 	- Suricata 
 	- Linux
 
@@ -312,6 +320,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. Which of the following statements accurately describe playbooks ? Select three answers.
+
 	- A playbook clarifies what tools to use in response to a security incident.
 	- A playbook is a manual that provides details about any operational action.
 	- Organizations use playbooks to ensure employees follow a consistent list of actions.
