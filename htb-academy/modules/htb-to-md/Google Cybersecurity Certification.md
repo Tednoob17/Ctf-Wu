@@ -1603,6 +1603,7 @@ logins = "pwashing jhill tshah"
 
 8. Which steps are essential when preparing for a video interview ? Select two answers.
 
-	- 
+	- Test your video and audio settings
+	- Find a quiet location in your home
 
 9. 
