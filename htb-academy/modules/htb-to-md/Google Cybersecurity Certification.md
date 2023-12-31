@@ -1480,9 +1480,13 @@ logins = "pwashing jhill tshah"
 
 4. An analyst sends an email stakeholders about   a recent security breach. While writing the email, the analyst is mindful about what they say and which stakeholders they communicate the information to. Why does the analyst take this approach ?
 
+	Information that is communicated to stakeholders  is sensitive.
+
+5. Fill in the blank: Communications with stakeholders should always be precise, avoid unnecessary technical terms, and <---->.
 	
 
-5. 
+
+6. 
 
 
 
