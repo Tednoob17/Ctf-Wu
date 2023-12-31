@@ -1425,21 +1425,26 @@ logins = "pwashing jhill tshah"
 
 
 1. What security term describes the identification of a potential security event, training it, and handing it off to more experienced team member ?
+
 	Incident escalation
 
 
 2. Fill in the blank: <----> is a skill that will help you identify security incidents that need to be escalated. 
+
 	Attention to detail
 
 3.  Fill in the blank: Entry-level analysts might need to escalate various incident types, incident types, including <---->.
+
 	improper usage
 
 
 4. An employee attempting to access software on their work device for personal use can be example what security incident type ?
+
 	Improper usage
 
 
 5. Which  of the following security incidents can have the most damaging impact to an organization?  
+
 	A system containing customer PII is compromised
 
 6. A security analyst for an organization notices unusual log activity in an app that was recently banned from the organization .However, the analyst forgets to escalate this activity to the proper personnel. What potential impact can this small incident have on the organization ?
