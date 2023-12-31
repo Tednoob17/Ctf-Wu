@@ -16,9 +16,9 @@
 	- Trusted partners 
 	- Employees
 
-5. What is identity theft ?
+4. What is identity theft ?
 
-	Stealing personal information to commit fraud while impersonnating a victim. 
+	Stealing personal information to commit fraud while impersonating a victim. 
 
 5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines .
 
