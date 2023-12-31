@@ -1575,4 +1575,7 @@ logins = "pwashing jhill tshah"
 	- Your name 
 
 
-3.  
+3. What can the skills section of resume include ? Select two answers.
+	
+
+4. 
