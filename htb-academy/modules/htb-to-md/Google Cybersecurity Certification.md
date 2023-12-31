@@ -1581,6 +1581,8 @@ logins = "pwashing jhill tshah"
 	- Programming skills
 
 4. Which of the following statements is suitable to include in the work experience section of a resume ? Select two answers.
-	
 
-5. 
+	- Collaborated with a team of six to develop training for more than 25 company employees
+	- Conducted monthly vulnerability assessments
+
+5.  
