@@ -1446,6 +1446,10 @@ logins = "pwashing jhill tshah"
 	An escalation policy
 
 8. Why is it important for analysts for analysts to follow a company's escalation policy ? Select  two answers .
+	- An escalation policy instructs analysts on the right person to contact during an incident.
+	- An escalation policy can help analysts prioritize which security events
+
+9. 
 
 
 
