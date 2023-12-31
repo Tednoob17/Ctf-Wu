@@ -1585,4 +1585,7 @@ logins = "pwashing jhill tshah"
 	- Collaborated with a team of six to develop training for more than 25 company employees
 	- Conducted monthly vulnerability assessments
 
-5.  
+5. Fill in the blank : Under the education/certification section of your resume, you should list any subjects you studied related to <----> .
+
+
+6. 
