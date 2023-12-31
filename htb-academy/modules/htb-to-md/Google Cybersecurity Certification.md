@@ -1607,6 +1607,9 @@ logins = "pwashing jhill tshah"
 	- Find a quiet location in your home
 
 9. Why i building rapport important in the job interview process ? Select two answers.
-	- It can help ease
 
-10. 
+	- It can help ease nervousness during the interview
+	- It can help enhance the communication between you and interviewer
+
+
+11. 
