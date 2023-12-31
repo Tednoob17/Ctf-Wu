@@ -1450,7 +1450,7 @@ logins = "pwashing jhill tshah"
 	- An escalation policy can help analysts prioritize which security events needs to be escalated with more or less urgency.
 
 9. Fill in the blank: An entry-level analysts helps the security team make sure the <----> person on the team is alerted when incidents occur.
-
+	correct 
 
 10. 
 
