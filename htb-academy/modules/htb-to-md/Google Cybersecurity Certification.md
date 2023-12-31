@@ -146,22 +146,27 @@
 	Playbook
 
 5. As a security analyst, you are monitoring network traffic to ensure that SPII data is not being.
+
 	Using network protocol analyze (packet sniffer)
 
 6. What are some key benefits of programming languages ? Select all that apply.
+
 	- They filter through data points faster than humans can working manually.
 	- They create a specific set of instructions for a computer to execute tasks
 	- They execute repetitive process accurately.
 
 
 7.  How is an open-source operating system, such as Linux, different from other operating systems ?
+
 	It relies on a command line
 
 8. Fill in the blank: A database is a <----> of organized data stored a computer system.
+
 	Collection
 
 
 9.  What are some key benefits of using Python to perform security tasks ? Select all that apply.
+
 	- It simplifies repetitive tasks.
 	- It enables security professionals to be more accurate.
 	- It helps security professionals work with high level of details
