@@ -1478,7 +1478,11 @@ logins = "pwashing jhill tshah"
 	Security threats
 
 
-4. An analyst sends an email stakeholders about   a recent security breach. While writing the email, the analyst is mindful about what they say and which stakeholders they communicate the 
+4. An analyst sends an email stakeholders about   a recent security breach. While writing the email, the analyst is mindful about what they say and which stakeholders they communicate the information to. Why does the analyst take this approach ?
+
+	
+
+5. 
 
 
 
