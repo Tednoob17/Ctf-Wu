@@ -418,6 +418,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 ## Course 3 - Week 1 (Connect and Protect Network and Network Security)
 
 1. Fill in the blank: A <----> is a network that spans a large geographic area, like a city, state, or country.
+
 	WAN
 
   2. A <-----> broadcasts information to every device on the network.
