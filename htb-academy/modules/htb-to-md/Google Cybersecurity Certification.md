@@ -50,27 +50,34 @@
 	LoveLetter attack
 
 3. Fill in the blank: Social engineering is a manipulation technique that exploits <----> error to gain access to private information . 
+
 	human
 
 4. A security professional conducts internal training to teach their coworkwrs how to identify a social engineering attack. What types of security issues are they trying to avoid ? Select all that apply .
+
 	- Employees inadvertently revealing sensitive date
 	- Malicious software being deployed
 	- Phishing attacks
 
 
 5. A security professional s researching compliance and the law in order to define security goals.Which domain does this scenario describe ?
+
 	Security and risk management
 
 6. A security professional is optimizing by ensuring that effective tools, systems, and processes are in place. Which domain does this scenario describe ?
+
 	Security architecture and  engineering
 
 7. Which domain involves securing digital and physical assets, as well as managing the storage, maintenance, retention, and destruction of data ?
+
 	Assets security
 
 8. Which domain involves conducting, collecting, and analyzing data as well as conducting security audits to monitor for risks, threats, and vulnerabilities ?
+
 	Security assessments and testing
 
-9.  A security professional is setting up access keycards for new employees. Which domain does this scenario describe ?
+9.  A security professional is setting up access keycards  for new employees. Which domain does this scenario describe ?
+
 	Identity and access management 
 
 10. Which domain involves conducting investigations and implementing preventive measures ?
