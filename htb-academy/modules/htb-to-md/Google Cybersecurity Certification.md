@@ -18,13 +18,16 @@
 	Stealing personal information to commit fraud while impersonnating a victim. 
 
 5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines .
+
 	avoid
 
-6.  Which of the following proficiencies are examples of technical skills? Select two answers . 
+6.  Which of the following proficiencies are examples of technical skills? Select two answers .
+
 	- Automating tasks with programming .
 	- Applying computer forensics . 
 
-7. Fill in the blank: Security information and event <-------> (SIEM) tools enable security professionals to identify and analyze threats, risks, and vulnerabilities .
+8. Fill in the blank: Security information and event <-------> (SIEM) tools enable security professionals to identify and analyze threats, risks, and vulnerabilities .
+
 	management
 
 8. A security professional receives an alert about an unknown user accessing a system within their organization .They attempt to identify, analyze, and preserve the associated criminal evidence .What security task does this scenario describe ?
