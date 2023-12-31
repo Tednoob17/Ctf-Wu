@@ -867,6 +867,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 9. What phase comes after identifying a target when  practicing an attacker mindset ?
+
 	Determine how the target can be accessed
 
 
@@ -881,22 +882,27 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 1. Which of the following could be examples of social engineering attacks? Select three answers.
+
 	- An unfamiliar employee asking you to hold the door open to a restricted area 
 	- An email urgently asking you to send money to help a friend who is stuck in a foreign country
 	- A pop-up advertisement promising a large cash reward in return for sensitive information
 
 2. Fill in the blank: <-----> uses text messages to manipulate targets into sharing sensitive information.
+
 	Smishing
 
-3. Fill in the blank: The main difference between a worm and a virus is that a worm can <---->
+3. Fill in the blank: The main difference between a worm and a virus is that a worm can <---->.
+
 	replicate itself across devices without requiring users to perform an action
 
 4. What are characteristics  of a ransomware attack? Select three answers.
+
 	- Attackers make themselves know to their targets.
 	- Attackers encrypt data on the device without the user's permission.
 	- Attackers demand payment to restore access to a device .
 
 5. Fill in the blank: Cryptojacking is a type of malware that uses someone's device to <----> cryptocurrencies.
+
 	mine
 
 6. What is malicious code that is inserted into a vulnerable application called ?
@@ -905,18 +911,22 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 7. Fill in the blank: A <-----> cross-site scripting (XSS) attack is an instance when malicious script exists in the webpage a browser loads.
+
 	DOM-based
 
 
 8. What is one way to prevent SQL injection?
+
 	Having well-written code
 
 9. What are some key benefits of the targets  of the threat modeling process ? Select all apply.
+
 	 - Reduce an attack surface
 	 - Help prioritize threats 
 	 - Identify points of failure
 
 10. What discoveries are made while decomposing an application  during a  PASTA threat model ? Select answers. 
+
 	- Which controls are in place to protect data along the way
 	- How data travels from users to an organization's database 
 
