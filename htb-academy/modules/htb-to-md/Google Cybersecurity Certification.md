@@ -1580,4 +1580,7 @@ logins = "pwashing jhill tshah"
 	- Security frameworks 
 	- Programming skills
 
-4. 
+4. Which of the following statements is suitable to include in the work experience section of a resume ? Select two answers.
+	
+
+5. 
