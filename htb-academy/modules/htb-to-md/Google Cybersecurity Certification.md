@@ -1601,4 +1601,8 @@ logins = "pwashing jhill tshah"
 	- Review the job description
 	- Practice speaking about the experiences and skills that the employer is looking for 
 
+8. Which steps are essential when preparing for a video interview ? Select two answers.
+
+	- 
+
 9. 
