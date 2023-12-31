@@ -213,13 +213,14 @@
 
 	data
 
-2.  Which of following examples are key focus areas of the security and risk management domain ? Select three answers 
+2.  Which of following examples are key focus areas of the security and risk management domain ? Select three answers .
 
 	- Follow legal regulations
 	- Maintain business continuity
 	- Define security goals
 
 3. What term describes an organization's ability to maintain its everyday productivity by establishing risk disaster recovery plans ?
+
 	Business continuity
 
 4. Shared responsibility is a core concept of which domain ?
