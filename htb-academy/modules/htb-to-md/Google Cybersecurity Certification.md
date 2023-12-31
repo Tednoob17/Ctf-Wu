@@ -1566,7 +1566,11 @@ logins = "pwashing jhill tshah"
 ## Course 8 week 5 (Put it to work, Prepare for cybersecurity jobs)
 
 1. Fill in the blank : A resume might also be referred to as <----->.
-	
+	curriculum vitae
 
 
-2. 
+2. Which personal details should be included at the top of your resume ? Select three answer.
+
+
+
+4. 
