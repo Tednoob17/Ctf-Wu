@@ -1576,6 +1576,8 @@ logins = "pwashing jhill tshah"
 
 
 3. What can the skills section of resume include ? Select two answers.
-	
+
+	- Security frameworks 
+	- Programming skills
 
 4. 
