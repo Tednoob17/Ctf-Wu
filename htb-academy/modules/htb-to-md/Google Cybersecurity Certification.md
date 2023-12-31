@@ -1210,6 +1210,7 @@ welcome_user(username)
 	 `7`
 
 6. What is returned from following user-defined function if you pass it the arguments `2` and `3` ?
+
  ```python3
   def add(num1, num2) :
       result = num1 + num2
@@ -1220,9 +1221,11 @@ welcome_user(username)
 	 5
 
 7.  What does PEP 8 contain ?
+
 	 Stylistic guidelines for programmers working in python
 
-8. What is an advantage of including this comment in the following code ? Select all that apply.
+8. What is an advantage of including this comment in the following code ? Select all that 
+apply.
  ```python3
   # For loop iterates to print an alert message 5 times
 
@@ -1235,10 +1238,12 @@ welcome_user(username)
 
 
 9. What are built-in functions ?  
+
 	Functions that exist with and can be called directly
 
 
-10. Fill in the blank: A python file that contains additional functions, variables, classes, and any kind of runnable code is called a <---->
+10. Fill in the blank: A python file that contains additional functions, variables, classes, and any kind of runnable code is called a <---->.
+
 	module
 
 
@@ -1247,14 +1252,17 @@ welcome_user(username)
 ## Course 7 - Week 3 Automate Cyber security Tasks with python)
 
 1. Which line of code returns the number of characters in the string assigned to the `username` variable ?
+
 	`print (len(username))` 
 
 
 2. Which line of code returns a copy of the string `"bmoreno"` as `"BMORENO"`  ?
+
 	print("bmoreno".upper())
 
 
 3. In the string `"network"`, which character has an index of `1` ?
+
 	 `"e"` 
 
 4. You need to take a spice from a device ID. Specifically, you must extract the characters with indices of `8`,`9` and `10` . Complete the python code to take this slice and display it. (If you want to undo your changes to the code, you can click the Reset button.) 
@@ -1289,6 +1297,7 @@ print(approved_users[1])
 	Any alphanumeric character 
 
 9. What module do you need to import to use regular expressions in python ?
+
 	 `re` 
 
 10.  What does the code `device_ids.append("h32rb17")` do ?
