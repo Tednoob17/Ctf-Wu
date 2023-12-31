@@ -641,27 +641,33 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	`grep` 
 
 4. Which of these commands creates a new file ?
+
 	`touch`
 
 5. What are red, write, and execute ? 
+
 	The three types of permissions for authorized users.
 
 6. A security analyst enters `chmod u+w, g-r access.txt` into the command line.What does this command tell the operating system to do? Select all that apply.
+
 	- Add write permissions to the user for the `access.txt` file.
 	- Remove read permissions from the group for the `access.txt` file 
 
-7. A user is not a root user, but needs elevated privileges to use certain commands.What should
-  they do?
+8. A user is not a root user, but needs elevated privileges to use certain commands.What should they do?
+
 	  Use the `sudo` command .
 
 8. What should you specify in the argument following the `cd` command ?
+
 	The directory you want to navigate  to .
 
 9. Which of the following commands searches the manual page descriptions for a specified strings ?
+
 	apropos
 
 
 10. Given the following permissions `drw-rw-r--`, what permissions does the group have ? Select all that apply.
+
 	- Read
 	- Write
 
@@ -673,32 +679,39 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 ## Course 4 - Week 4 (Tools of the trade, Linux and SQL)
 
 1. A security analyst queries a database related to security patches.How can SQL help this analyst with their work?
+
 	The analyst can efficiently find the data they need.
 
 
 2. What is true about the values in the primary key column? Select all that apply.
+
 	- They cannot be null (or empty).
 	- Each row must have a unique value.
 
 
-3. Which of these SQL statements queries the `machines` table ? Select  all that apply.
+4. Which of these SQL statements queries the `machines` table ? Select  all that apply.
 
 	- `SELECT * FROM machines;`
 	- `SELECT device_id, operating_system FROM machines WHERE operating_system == 'OS 2' ;` 
 
 
-4. Both an `employees` table and a `machines` table contain contain an `employee_id` column, and you want to return only the records that share a value in this column.Which keyword should be part of your query ?
+5. Both an `employees` table and a `machines` table contain contain an `employee_id` column, and you want to return only the records that share a value in this column.Which keyword should be part of your query ?
+
 	`INNER JOIN` 
 
 5. What does `WHERE department == 'Sales'` indicate in the following SQL query ?
 `SELECT * FROM employees WHERE department == 'Sales';`
+
 	To only return rows that match the filter 
 
 6. You work with a table that has one column for `name` . Some of these names have prefixes. You want to identify all of the doctors. Which query will return every name that starts with the prefix `'Dr.'` ?
+
 	`WHERE name LIKE  `Dr.%`; 
 
-7. You need to perform a SQL join .You want to return all the columns with records matching on the `device_id` column between the `employees` and `machines` tables.You also want to return records from the `employees` table. Which of the following queries would you use ?
-	`SELECT * FROM employees LEFT JOIN machines ON employees.device_id = machines.devices_id`
+7. You need to perform a SQL join .You want to return all the columns with records matching on the `device_id` column between the `employees` and `machines` tables.You also want to return records from the `employees` table. Which of the following queries 
+  would you use ?
+  
+	`SELECT * FROM employees LEFT JOIN machines ON employees.device_id =  machines.devices_id`
 
 
 8. You are working with `Chinook` database. You want to return the `lastname` and `title` columns from the `employees` table. Replace `--???` with the missing information to complete the query.(If you want o undo your changes to the query, you can click the Reset button.)
@@ -718,7 +731,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
    --???
 ```
 
-How many employees were hired on or after October17, 2003 ?
+How many employees were hired on or after October 17, 2003 ?
+. 
 	4 
 
 10. You are working with the `Chinook` database and are responsible for filtering for the customers that live in the `city` of `'Mountain View'` and work for the company `'Google Inc'` . Replace `--???` with the missing information to complete the query .(If you want to undo your changes to the query, you can click the Reset button.)
@@ -741,44 +755,54 @@ How many customers live in Mountain View and work for Google Inc ?.
 ## Course 5 - Week 1 (Assets,Threats, and Vulnerabilities)
 
 1. An attacker spreads malicious software within an organization, which executes unauthorized actions on the organizations's systems.What does this scenario describe ?
+
 	Threat
 
 2. Fill in the blank: A misconfigured firewall is an example of a security <----> 
+
 	Vulnerability
 
 3. Which of the following statements correctly describe security asset management? Select two answers . 
+
 	- It helps identify risks
 	- It uncovers gaps in security
 
 4. An employee is asked to email customers and request that they complete a satisfaction survey. The employee must be given access to confidential information in the company database to conduct the survey.What types of confidential customer information should the employee be able to access from the company's database to do their job ? Select two answers.
+
 	- E-mail addresses
 	- Customer names
 
-5. What is an example of restricted information ? Select all thst apply .
+6. What is an example of restricted information ? Select all thst apply .
+
 	- Intellectual propriety 
 	- Health information
 	- Cardholder data
 
 
-6. Which of the following can be prevented with effective information security? Select all that apply.
+7. Which of the following can be prevented with effective information security? Select all that apply.
+
 	- Repudiation damage
 	- Identity theft
 	- Financial loss
 
 
-7. What is an example of digital data at rest ? Select two answers.
+8. What is an example of digital data at rest ? Select two answers.
+
 	- Files on a hard drive
 	- Email messages in a inbox 
 
-8.  What are some key benefits of a security plan? Select three answers . 
+9.  What are some key benefits of a security plan? Select three answers . 
+
 	- Define consistent policies that address what's being protected and why .
 	- Outline clear procedures that describe how to protect assets ans reat to threats .
 	- Establish a shared set of standards for protecting assets . 
 
-9. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
+10. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
+
 	Level-4
 
 10. Fill in the blank: CSF profiles provide insights into the <----> state of a security plan.
+
 	Current
 
 
