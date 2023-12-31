@@ -1431,14 +1431,10 @@ logins = "pwashing jhill tshah"
 
 
 4. An employee attempting to access software on their work device for personal use can be example what security incident type ?
-	
+	Improper usage
 
 
-
-
-
-
-6. Which  
+5. Which  of the following security incidents can have the most damaging impact to ab organization?
 
 
 
