@@ -1722,6 +1722,7 @@ logins = "pwashing jhill tshah"
 
 
 1. What is a stakeholder ?
+
 	An individual or a group that has an interest in any decision or activity of an organization.
 
 2. Which security stakeholder helps recognize risks and manage the response to security incidents ?
