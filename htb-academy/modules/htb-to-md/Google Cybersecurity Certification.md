@@ -1501,9 +1501,9 @@ logins = "pwashing jhill tshah"
 
 9. Fill in the blank: For security purposes, it is important to communicate sensitive information with <---->.
 
-	
+	care   
 
-10. 
+10. What is the best way to follow-up with a stakeholder who  
 
 
 
