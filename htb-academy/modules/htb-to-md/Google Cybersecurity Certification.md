@@ -318,9 +318,11 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 2. Fill in the blank: A security team <----> their playbook frequently by learning from past security incidents, then refining policies and procedures .
+
 	updates
 
-3. Fill in the blank: Incident response playbooks outline processes for communications and <---->
+3. Fill in the blank: Incident response playbooks outline processes for communications and <---->.
+
 	documentation
 
 
@@ -330,16 +332,20 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 5. Why is the containment phase of an incident response playbook a high priority for organizations ?
+
 	It helps prevent ongoing risks to critical assets and data .
 
 
 6. Fill in the blank : During the post incident activity, organizations aim to enhance their overall <----> by determining the incident's root cause and implementing security improvements.
+
 	security posture
 
 7. A security analyst establishes incident procedures.They also educate users on what to do in the event of a security incident .What phase of an incident playbook does this scenario describe ?
+
 	Preparation 
 
 8. In what ways do SIEM tools and playbooks help security teams respond to an incident? Select all that apply.
+
 	- SIEM alerts inform security teams of potential threats.
 	- SIEM tools analyze data.
 	- SIEM tools and playbooks works together to provice an efficient way of handling security incidents.
@@ -362,28 +368,35 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	switch
 
 4. A security professional is investigating the benefits and drawbacks of using a cloud service provider (CSP). What are some reasons why the security professional might choose to use a CSP in their work? Select all that apply.
+
 	- CSP remote servers allow web applications to be accessed from any location . 
 	- A CSP offers processing power that is only paid for needed
 	- A SCP provides business analytics to monitor web traffic and sales . 
 
 5. What information is included in the body if data packet ?
+
 	The message to be transmitted to the receiving device
 
 6. What are the three main categories of services that CSPs provide ? Select all that apply.
+
 	- Software as a service (SaaS)
 	- Infrastructure as a service (IaaS)
 	- Platform as a service (PaaS)
 
 7. A security analyst is accessing a webpage that uses HTTPS. The analyst scans the network to see what ports are active. Which port  number is used for HTTPS webpages ?
+
 	443
 
-8. A security analyst uses the TCP/IP model to visualize how data is organized and transmitted across their company's network. The analyst inspects the transmission of data pakets, such as the direct data its destination . Which layer are they investig  ating ?
+8. A security analyst uses the TCP/IP model to visualize how data is organized and transmitted across their company's network. The analyst inspects the transmission of data packets, such as the direct data its destination . Which layer are they investing  ?
+
 	Layer 1, network access
 
 9. Which of the following addresses is an accurate IPV4 address ?
+
 	192.168.0.2
 
 10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
+
 	IPV6
 
 
@@ -395,6 +408,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. What network protocol helps data get to the right place by determining the MAC address of the next router or device on its path ? 
+
 	Address Resolution Protocol (`ARP`)
 
 2. Which of the following statements accurately describe wireless protocols? Select three answers
@@ -404,14 +418,17 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- The set of standards `IEEE 802.11`  is also referred to as `Wi-Fi` 
 
 3. A firewall administrator sets up a firewall that operates based on predefined rules .It is not used to keep track of information from data packets. What class of firewall does this scenario describe ?
+
 	Stateless
 
 
 4. Which firewall offers the most security features ?
+
 	Next generation firewall (NGFW)
 
 
 5. How do VPNs preserve confidentiality
+
 	Encrypt data in transit 
 
 6. Fill in the blank: VPN services perform encapsulation to protect sensitive data by <----> it in other data packets.
