@@ -1452,7 +1452,7 @@ logins = "pwashing jhill tshah"
 9. Fill in the blank: An entry-level analysts helps the security team make sure the <----> person on the team is alerted when incidents occur.
 	correct 
 
-10. A security analyst receives an alert that someone has gained unauthorized access to a system with 
+10. A security analyst receives an alert that someone has gained unauthorized access to a system with PII. Seconds later, the analyst is alerted that an employee has downloaded unapproved 
 
 
 
