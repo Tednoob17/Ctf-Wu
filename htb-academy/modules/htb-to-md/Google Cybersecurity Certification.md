@@ -553,28 +553,34 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	The bootloader
 
 4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and directs then to the appropriate <---->
+
 	Components of the computers hardware
 
 5. What appens when you use applications on your computer? Select three answers . 
+
 	- The aplications sends your request to the operating system.
 	- The operating system interprets a request from the application and directs its to the appropriate components of the computer's hardware .
 	- The hardware sends informations back to the operating system, which is sent back to the application.
 
 
 6. Which of the following are key types of user interfaces ? Select two answers
+
 	- Command line
 	- Graphical
 
 
 7. Which of the following statements correctly describe GUIs and CLIs ? Select three answers.
+
 	- A CLI is a text-based user interface. 
 	- A CLI commands execute tasks, such as moving a file to new folder.
 	- GUI icons help user to nanage different tasks on a computer
 
 8. A security team suspects that an attacker has compromised their system. They examine the commands entered by the attacker's to determine whether they can trace the attacker's actions to help them resolve the incident describe ?
+
 	Reviewing a history file in a CLI.
 
 9. Fill in the blank: On a computer,the <----> handles resources and memory management . 
+
 	Operating System
 
 
@@ -586,40 +592,49 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. What is an effect of Linux being open source  ?
+
 	It allows for collaboration among a community of developers .
 
 2. Which of the following components are part of the Linux architecture? Select all that apply .
+
 	- The kernel
 	- Hardware
 	- The Filesystem Hierarchy Standard (FHS)
 
-3. Which of the following are examples of Linux distributions? Select all that apply.
+4. Which of the following are examples of Linux distributions? Select all that apply.
+
 	- Debian
 	- Ubuntu
 
-4. Which of the following statements correctly describe KALI LINUX ? Select three answers. (KALI LINUX is a trademark of OffSec.)
+5. Which of the following statements correctly describe KALI LINUX ? Select three answers. (KALI LINUX is a trademark of OffSec.)
+
 	- KALI LINUX should be used on a virtual machine.
 	- KALI LINUX was created specifically to be used with penetration testing and digital forensics.
 	- KALI LINUX is a open source Linux distribution that is widely used in security.
 
 
-5. Which of the following is a Linux distribution that is built enterprise use and offers a dedicated support team for customers ?
+6. Which of the following is a Linux distribution that is built enterprise use and offers a dedicated support team for customers ?
+
 	Redhat 
 
 
 6. What is the Linux shell used for ?
+
 	It allows you to communicate with operating system.
 	
   
   7. Fill in the blank: When you communicate with the shell, the commands in the shell can <----> Select all that apply.
+.
 	- Take input
 	- Give error messages
 	- give output
 
 8. Which of the following is an example of hardware?
+
 	CPU
 
 9. What is a standard input ?
+
 	Information received by the OS via the command line.
 
 
@@ -630,14 +645,17 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. What are the arguments in `cp vulnerabilities.txt  /home/analyst/projects` ? Select answers two answers.
+
 	- `/home/analyst/projects`
 	- `vulnerabilities.txt` 
 
 2. Which of the following items represents the root directory ?
+
 	`/` 
 
 3. Which command searches a specified file and returns all lines in the file containing a specified 
    strings?
+
 	`grep` 
 
 4. Which of these commands creates a new file ?
