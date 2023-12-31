@@ -1439,9 +1439,13 @@ logins = "pwashing jhill tshah"
 
 6. A security analyst for an organization notices unusual log activity in an app that was recently banned from the organization .However, the analyst forgets to escalate this activity to the proper personnel. What potential impact can this small incident have on the organization ?
 
+	It can become a bigger threat.
+
+7. What security term is defined as set of actions that outlines who should be notified when an  incident alert occurs ?
+
 	
 
-7. 
+8. 
 
 
 
