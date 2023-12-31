@@ -1591,6 +1591,8 @@ logins = "pwashing jhill tshah"
 
 
 6. Fill in the blank: Resumes typically list your last <----> years of work experience.
-	
+
+	10
+
 
 7. 
