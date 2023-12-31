@@ -1612,4 +1612,5 @@ logins = "pwashing jhill tshah"
 	- It can help enhance the communication between you and interviewer
 
 
-10. A potential candidate is interviewing for a security   analyst role . The candidate says the following when responding to a scenario-based question: "My manager took time off from the organization and nominated me to take their place."  Which part of the STAR method 
+10. A potential candidate is interviewing for a security   analyst role . The candidate says the following when responding to a scenario-based question: "My manager took time off from the organization and nominated me to take their place."  Which part of the STAR method does this response demonstrate ?
+	
