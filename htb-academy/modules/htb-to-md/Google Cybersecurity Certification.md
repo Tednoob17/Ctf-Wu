@@ -1595,4 +1595,10 @@ logins = "pwashing jhill tshah"
 	10
 
 
-7. What are effective ways to prepare for your job interview ? Select three answers. 
+7. What are effective ways to prepare for your job interview ? Select three answers.
+
+	- Review your notes on NIST Framework to refresh your memory
+	- Review the job description
+	- Practice speaking about the experiences and skills that the employer is looking for 
+
+9. 
