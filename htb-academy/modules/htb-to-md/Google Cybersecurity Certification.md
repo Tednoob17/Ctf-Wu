@@ -1042,16 +1042,20 @@ examination. On which part of the chain of custody form should they sign their n
 	Receive and assess, assign priority, collect and analyze
 
 7. Fill in the blank: Containment is the act of limited and <----> additional damage caused by an incident.
+
 	 preventing
 
 8. Which step of the NIST Incident Response Lifecycle involves returning affected systems back to normal operations ?
+
 	Recovery
 
 
 9. Fill in the blank: A lessons learned meeting should be held within <---->  weeks of an incident.
+
 	two
  
 10. During a lessons learned meeting following an incident, a meeting participant wants to identify actions that the organization can take to prevent similar incidents from occurring in the future.
+
 	 Recommendations 
 
 
@@ -1060,12 +1064,14 @@ examination. On which part of the chain of custody form should they sign their n
 ## Course 6 - Week 4 (Sound the Alarm,  Detection)
 
 1. What details do logs contain ? Select all that apply.
+
 	 - Date
 	 - Time
 	 - Location
 
 
 2. Examine the following log : `LoginEvent [2021/10/13 10:32:08.954711] auth_session_authenticator.cc:304 Regular user login 1 ` 
+
 	Authentication
 
 3. Examine the following log: 
@@ -1081,6 +1087,7 @@ examination. On which part of the chain of custody form should they sign their n
 	 JSON
 
 4. Fill in the blank: <----> analysis is a detection method used to find events of interest using patterns.
+
 	 Signature 
 
 
@@ -1091,6 +1098,7 @@ examination. On which part of the chain of custody form should they sign their n
 	 - IP address
 
 6. Which rule option is used to match based on the direction of network  traffic ?
+
 	Flow 
 
 
@@ -1099,12 +1107,15 @@ examination. On which part of the chain of custody form should they sign their n
 	Network telemetry contains information about network traffic flows, network alert logs are the output of a signature.
 
 8. Which type of Splunk query searches through unstructured log records ?
+
 	Raw log search 
 
 9. What is the default method of search in Chronicle ?
+
 	UDM
 
 10. Fill in the blank: SIEM tools <----> raw data so that it is formatted consistently.
+
 	 ingest ?
 
 
