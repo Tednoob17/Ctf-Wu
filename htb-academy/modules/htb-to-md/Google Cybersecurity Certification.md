@@ -1810,14 +1810,17 @@ logins = "pwashing jhill tshah"
 
 
 8. What is a good way to find other security analysts in the industry to follow on social media ?
+
 	 Search for cybersecurity analysts on *Linkedin* 
 
 
 9.  Fill in the blank :  For individuals who are not active on social media, <----> is another great way to connect with security professionals.
+
 	joining different security associations
 
 
 10. What is the best search term to use to find a security organization to join ?
+
 	"Cybersecurity industry associations"
 
 
@@ -1827,6 +1830,7 @@ logins = "pwashing jhill tshah"
 ## Course 8 week 5 (Put it to work, Prepare for cybersecurity jobs)
 
 1. Fill in the blank : A resume might also be referred to as <----->.
+
 	curriculum vitae
 
 
