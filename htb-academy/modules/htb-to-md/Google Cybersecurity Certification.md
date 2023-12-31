@@ -1587,7 +1587,10 @@ logins = "pwashing jhill tshah"
 
 5. Fill in the blank : Under the education/certification section of your resume, you should list any subjects you studied related to <----> .
 
-	The job you are applying for 
+	the job you are applying for 
 
 
-6. 
+6. Fill in the blank: Resumes typically list your last <----> years of work experience.
+	
+
+7. 
