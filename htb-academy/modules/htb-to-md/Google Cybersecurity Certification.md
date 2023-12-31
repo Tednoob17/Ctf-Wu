@@ -788,43 +788,53 @@ How many customers live in Mountain View and work for Google Inc ?.
 ## Course 5 - Week 2 (Assets,Threats, and Vulnerabilities)
 
 1. Which functions would fall under the category of operational security controls ? Select two answers.
+
 	- Responding to an incident alert
 	- Providing security awareness training
 
 2. A large hotel chain is conducting a national sweepstakes.To enter the sweepstakes, customers must consent to sharing their email address with the chain's business partners for marketing purposes.What are the hotel chain's responsibilities  as data custodians ? Select three answers.
+
 	- Collect customer consent and emails
 	- Back up customer information
 	- Send information to business partners
 
 3. You send an email to a friend.The service provider of your inbox encrypts all messages that you send.What happens to the information in your email when it's encrypted ?
+
 	It's converted from plaintext to ciphertext.
 
 4. Why are hash algorithms that generate long hash values more secure than those that produce short hash values ?
+
 	They are more difficult to brute force
 
 5. Which security controls are used in public key infrastructure ? Select three answers.
+
 	- Digital certificates 
 	- Symmetric encryption
 	- Asymmetric encryption
 
 6. Fill in the blank: Knowledge, ownership, and characteristic are three factors of <----> systems.
+
 	authentication
 
 7. What are some disadvantages of using single sign-on (SSO) technology for user authentication Select two.
+
 	- Stolen credentials can give attackers access to multiple resources.
 	- Access to all connected resources stops when SSO is down.
 
 8. The main responsibility of a receptionist at a healthcare company is to check-in visitors upon arrival.When visitors check-in, which kinds of information should the receptionist be able to access to computer their task ? Select two answers.
+
 	- A photo ID
 	- The patient being visited
 
 9. What types of user information does an API token contain ? Select two answers.
+
 	- A user's identity
 	- A user's site permissions
 	- A user's password
 
 
 10.  A customer of an online retailer has complained that their account contains an unauthorized purchase.You investigate the incident by reviewing the retailer's access logs.What are some components of the user's session that you might review? Select two answers.
+ .  
 	- Session cookie
 	- Session ID
 
