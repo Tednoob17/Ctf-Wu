@@ -218,19 +218,24 @@
 ## Course 2 - Week 2 (Play it Safe Manage,  Security Risk)
 
 1. What is the purpose of security frameworks ?
+
 	Build plans to help mitigate risks and threats to data and privacy
 
 
 2.Fill in the blank: An employee using multi-factor authentication to verify their identity is an example  of the <----> process . 
+
 	authentication
 
 3. What type of social engineering attack attempts to exploit biometrics ?
+
 	Vishing 
 
 4. You work as a security analyst at a bank and need to ensure that customers can access their account information. Which core principle of the CIA triad are you using to confirm their data is accessible to them ?
+
 	Availability
 
 5. Which of the following statements accurately describe the CSF ? Select all that apply.
+
 	- The protect function of the CSF involves implementing policies, procedures, training, and tools to mitigate threats .
 	- The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 	- Investigating an incident to determine how the threat occured, what was affected, and where the attack originated is part of the respond function of the CSF.
