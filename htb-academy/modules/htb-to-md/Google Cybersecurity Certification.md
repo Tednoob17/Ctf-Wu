@@ -1506,6 +1506,11 @@ logins = "pwashing jhill tshah"
 10. What is the best way to follow-up with a stakeholder who has not immediately responded to your email ? Select two answers.
 
 
+	- Send them an instant message
+	- Call them on the phone
+
+
+
 
 
 
