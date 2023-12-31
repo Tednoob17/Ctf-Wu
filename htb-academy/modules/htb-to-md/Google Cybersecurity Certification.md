@@ -1375,10 +1375,12 @@ logins = "pwashing jhill tshah"
 ## Course 8 week 1 (Put it to work, Prepare for cybersecurity jobs)
 
 1. Fill in the blank: A security mindset is the <---->.
+
 	ability to evaluate risk and constantly seek out identity the potential or actual breach of a system, application, or data.
 
 
 2. As a security analyst, you are responsible for protecting an organization's low-level assets and high-level assets.Which of the following is considered a high-level asset ?
+
 	Intellectual property
 
 
@@ -1387,11 +1389,13 @@ logins = "pwashing jhill tshah"
 	Defend against constant pressure from cyber attackers.
 
 4. Which of the following examples are considered public data ? Select two answers.
+
 	- Press releases
 	- Product announcements
 
 
 5. Fill in the blank: One of the most important concerns for most organizations is the protection of <---->
+
 	customer data
 
 
@@ -1400,19 +1404,22 @@ logins = "pwashing jhill tshah"
 	The customers of the organization that hired the analyst
 
 7. A security analyst notices that an employee has installed an app on their work computer without getting permission from the IT desk. The security analyst also notices that antivirus software recorded a potentially malicious execution on the same computer.Which of these security events should the security analyst escalate to their supervisor ?
+
 	Both events should be escalated
 
 
 8. Which of the following defines a security incident ? 
+
 	A security event that results in a data breach 
 
 
 9. Fill in the blank: An organization is responsible for protecting its customer's sensitive data.
-   Examples of the kinds of sensitive data that must be protected include <----> and <----> .Select two answers.
+   Examples of the kinds of sensitive data that must be protected include <----> and <---->  . Select two answers.
  
 	 - social security numbers
 	 - bank statements
 10. Fill in the blank: <----> can occur if an organization's data essential assets are compromised in a way that disrupts its business operations.
+
 	Financial loss
 
 
