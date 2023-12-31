@@ -425,6 +425,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	  hub
 
 3. A <---> is a device that makes connections between specific devices on a network by sending and receiving data between them .
+
 	switch
 
 4. A security professional is investigating the benefits and drawbacks of using a cloud service provider (CSP). What are some reasons why the security professional might choose to use a CSP in their work? Select all that apply.
