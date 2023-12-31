@@ -1571,6 +1571,8 @@ logins = "pwashing jhill tshah"
 
 2. Which personal details should be included at the top of your resume ? Select three answer.
 
+	- Your professional title
+	- Your name 
 
 
-4. 
+3.  
