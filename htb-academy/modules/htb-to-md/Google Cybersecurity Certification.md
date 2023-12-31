@@ -1595,4 +1595,4 @@ logins = "pwashing jhill tshah"
 	10
 
 
-7. 
+7. What are effective ways to prepare for your job interview ? Select three answers. 
