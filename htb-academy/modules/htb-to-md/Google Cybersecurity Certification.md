@@ -997,7 +997,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- Layered defenses reduce risk addressing multiple vulnerabilities.
 
 
-4. What is the difference between the application and data layers of defense in depth model?
+3. What is the difference between the application and data layers of defense in depth model?
 
 	The application layer secures information with controls that are programmed into the application itself.The data layer maintains the integrity of information with controls like encryption and hashing.
 
