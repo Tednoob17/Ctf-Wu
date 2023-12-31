@@ -117,6 +117,7 @@
 	privacy protection
 
 10. You are security professional working for a state motor vehicle agency that stores drivers national identification numbers and banking information. Which ethical principle involves adhering to rules that intended to protect these types of data ?
+
 	Laws 
 
 
@@ -128,6 +129,7 @@
 ## Course 1 - Week 4 (Foundations of Cybersecurity)
 
 1. Which of the following statements correctly describe logs ? Select two answers .
+
 	- A business might log each time an employee signs into their computer.
 	- A log is a record of events that occur within an organization's systems.
 
@@ -137,8 +139,9 @@
 	- Proactively searching for threats
 	- Performing incident analysis
 
-3. Why might a security professional choose Google Chronicle to store security data for later
-	It's cloud-native, which means it delivers nwe features quickly.
+3. Why might a security professional choose Google Chronicle to store security data for later.
+
+	It's cloud-native, which means it delivers new features quickly.
 
 
 4. Fill in the blank: A security professional uses a <----> as a manual to guide operational activities.
