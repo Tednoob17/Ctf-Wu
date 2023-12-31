@@ -1451,6 +1451,7 @@ logins = "pwashing jhill tshah"
 	An escalation policy
 
 8. Why is it important  analysts to follow a company's escalation policy ? Select  two answers .
+
 	- An escalation policy instructs analysts on the right person to contact during an incident.
 	- An escalation policy can help analysts prioritize which security events needs to be escalated with more or less urgency.
 
@@ -1458,6 +1459,7 @@ logins = "pwashing jhill tshah"
 	correct 
 
 10. A security analyst receives an alert that someone has gained unauthorized access to a system with PII . Seconds later, the analyst is alerted that an employee has downloaded unapproved  software on their work device. Which incident should be escalated be escalated first ?
+
 	The incident involving unauthorized access to the system with PII should be escalated first .
 
 
@@ -1614,4 +1616,4 @@ logins = "pwashing jhill tshah"
 
 10. A potential candidate is interviewing for a security   analyst role . The candidate says the following when responding to a scenario-based question: "My manager took time off from the organization and nominated me to take their place."  Which part of the STAR method does this response demonstrate ?
 
-	Situation
+	 Situation
