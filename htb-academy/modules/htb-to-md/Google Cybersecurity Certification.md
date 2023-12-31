@@ -930,39 +930,49 @@ How many customers live in Mountain View and work for Google Inc ?.
 ## Course 6 - Week 1 (Sound the Alarm,  Detection)
 
 1. Which of the folowing statements describe security incidents and events?
+
 	All security incidents are events, but not all events are security incidents.
 
 2. What process is used to provide a blueprint for effective incident response ?
+
 	The NIST Incident Response Lifecycle
 
 3. Which of the following are phases of the NIST Incident Response Lifecycle? Select three answers.
+
 	- Containment, Eradiction,and Recovery
 	- Detection and analysis
 	- Preparation
 
 
 4. What is a computer security incident response team (CSIRT)
+
 	A specialized group of security professionals who are trained in incident management and response
 
 
 5. What are some common elements contained in incident response plans ? Select two answers.
+
 	- Incident response procedures
 	- System information
 
 6. What are investigative tools used for ?
+
 	Analyzing events
 
 7. What are examples of tools used for documentation? Select two answers .
+
 	- Audio recorders
 	- Cameras
 
 8. Fill in the blank: An intrusion detection system (IDS) <----> system activity and alerts on possible intrusions.
+
 	monitors
 
 9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)?
+
 	The analysis and response to a security incident
 
 10. Fill in the blank: During the <----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
+
 	data collection
 
 
