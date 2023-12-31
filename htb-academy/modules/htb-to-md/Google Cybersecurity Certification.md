@@ -1489,7 +1489,8 @@ logins = "pwashing jhill tshah"
 6. Which of the following is an example of a security event that should communicated to a stakeholder ?
 	Malicious code detected in logs.
 
-
+7. Fill in the blank : Creating <----> communications allows a security stakeholder to view representations of what is being explained using graphs and charts.
+	
 
 
 8. 
