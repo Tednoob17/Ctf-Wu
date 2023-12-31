@@ -1651,7 +1651,7 @@ logins = "pwashing jhill tshah"
 
 
 9. Fill in the blank: An organization is responsible for protecting its customer's sensitive data.
-   Examples of the kinds of sensitive data that must be protected include <----> and <---->  . Select two answers.
+   Examples of the kinds of sensitive data that must be protected include <---> and <---> Select two answers.
  
 	 - social security numbers
 	 - bank statements
