@@ -1373,6 +1373,7 @@ if update_status != "incomplete"
 
 
 8. You wrote the following code : 
+
 ```python3
 if attempts >= 5:
 	print("locked")
@@ -1711,6 +1712,7 @@ logins = "pwashing jhill tshah"
 9. Fill in the blank: An entry-level analysts helps the security team make sure the <----> person on the team is alerted when incidents occur.
 	correct 
 
+
 10. A security analyst receives an alert that someone has gained unauthorized access to a system with PII . Seconds later, the analyst is alerted that an employee has downloaded unapproved  software on their work device. Which incident should be escalated be escalated first ?
 
 	The incident involving unauthorized access to the system with PII should be escalated first .
@@ -1729,6 +1731,7 @@ logins = "pwashing jhill tshah"
 
 	An individual or a group that has an interest in any decision or activity of an organization.
 
+
 2. Which security stakeholder helps recognize risks and manage the response to security incidents ?
 	Risk manager
 
@@ -1740,6 +1743,7 @@ logins = "pwashing jhill tshah"
 4. An analyst sends an email stakeholders about   a recent security breach. While writing the email, the analyst is mindful about what they say and which stakeholders they communicate the information to. Why does the analyst take this approach ?
 
 	Information that is communicated to stakeholders  is sensitive.
+
 
 5. Fill in the blank: Communications with stakeholders should always be precise, avoid unnecessary technical terms, and <---->.
 
