@@ -835,29 +835,36 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 1. An application has broken access controls that fail to restrict any user from creating new accounts. This allows anyone to add new accounts with full admin privileges.
+
 	A vulnerability
 
 2. Why do organizations use defense in depth model to protect information? Select two answers.
+
 	- Threats that penetrate one level can be contained in another.
 	- Layered defenses reduce risk addressing multiple vulnerabilities.
 
 
-3. What is the difference between the application and data layers of defense in depth model?
+4. What is the difference between the application and data layers of defense in depth model?
+
 	The application layer secures information with controls that are programmed into the application itself.The data layer maintains the integrity of information with controls like encryption and hashing.
 
 
 4. Fill in the blank: According to CVE list a vulnerability with a score of <----> or above is consired to be a critical risk to company assets that should be addressed right away.
+
 	9 
 
-5. Which of following are characteristics of the vulnerability management process ? Select two
+5. Which of following are characteristics of the vulnerability management process ? Select two.
+
 	- Vulnerability management is way to limit security risks.
 	- Vulnerability management should consider various perspectives
 
 6. What are some of the goals of performing vulnerability assessments ? Select two answers.
+
 	- To perform an audit that measures regulatory compliance
 	- To identify weakness and prevent attacks
 
-7. Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an  attack <----> 
+7. Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an  attack <----> .
+
 	surface 
 
 8. A project manager at utility company receives a suspicious email that contains a file attachment. They open the attachment and it installs malicious software on their laptop. What are attack vectors used in this situation ? Select two answers.
