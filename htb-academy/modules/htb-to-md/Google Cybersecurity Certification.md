@@ -1493,8 +1493,7 @@ logins = "pwashing jhill tshah"
 	 visual 
 
 
-8. You have recently been hired as a security analyst for an organization. You've been asked by a security stakeholder to provide information on how of
-
+8. You have recently been hired as a security analyst for an organization. You've been asked by a security stakeholder to provide information on how of often the employees from various departments are clicking on simulated phishing emails.What action can you take to best communicate this information ?
 
 
 
