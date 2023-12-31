@@ -1443,9 +1443,9 @@ logins = "pwashing jhill tshah"
 
 7. What security term is defined as set of actions that outlines who should be notified when an  incident alert occurs ?
 
-	
+	An escalation policy
 
-8. 
+8. Why is it important for analysts for analysts to follow a company's escalation policy ? Select  two answers .
 
 
 
