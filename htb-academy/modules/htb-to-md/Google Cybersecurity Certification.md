@@ -1499,7 +1499,11 @@ logins = "pwashing jhill tshah"
 	Use visuals, such as charts and graphs, to tell the security story.
 
 
-9. 
+9. Fill in the blank: For security purposes, it is important to communicate sensitive information with <---->.
+
+	
+
+10. 
 
 
 
