@@ -495,39 +495,49 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. Which of the following tasks are security hardening practices ? Select that apply .
+
 	- Reducing access permissions across devices and networks
 	- Installing patch updates
 	- Disabling unused ports 
 
 
 2. When performing security hardening, what is the goal with regards to the attacks surface ?
+
 	Reduce the attack surface
 
 3. Fill in the blank: Requiring employees to turn off their personal devices while in secure areas is an example of a <----> security hardening practice.
+
 	physical 
 
 4. To help improve the security of a business, its in-house security team is approved to simulate an attack that will identify vulnerabilities in business processes.What does this scenario describe ?
+
 	Penetration testing
 
 5. What are some methods for hardening operates systems ? Select three answers.
+
 	- Configuring a device setting to fit a secure encryption standard
 	- Removing unused software to limit unnecessary vulnerabilities.
 	- Keeping an up-to-date list of authorized users.
 
 6.  A security analyst reviews documentation about a firewall rule that includes a list of allowed and disallowed network ports.They compare it to the current firewall to ensure no changes have been made.What does this scenario describe ?
+
 	Checking baseline configuration
 
 7. Fill in the blank: The security measure multi-factor authentication (MFA) requires a user to verify their identity <----> before accessing a system or network.
+
 	in two or more ways
 
 8. Which of the following statement accurately describes port filtering ?
+
 	A firewall function that blocks or allows certain port number in order to limit unwanted network network traffic
 
 
 9. A security team works to ensure that an issue in one area of the business does not spread to others and create more problems.They design subnets  for each department, such as one for research and another for finance.What does this scenario describe ? 
+
 	Network segmentation
 
 10. What is one one key similarity between regular web servers and cloud servers?
+
 	They both require security measures taken by the organization to stay safe .
 
 
@@ -540,16 +550,19 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 ## Course 4 - Week 1 (Tools of the trade, Linux and SQL)
 
 1. Which of the following statements accurately describe operating systems ? Select all that apply.
+
 	- Operating systems are the interfaces between computer hardware and user .
 	- Computers, smartphones, and tablets all have operating systems.
 	- Operating systems are responsible for making computers run efficiently
 
 
 2. Which of the following operating systems were designed to run on mobile devices? Select two answers.
+
 	- IOS
 	- Android 
 
 3. What does BIOS load in order to start an operating system ?
+
 	The bootloader
 
 4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and directs then to the appropriate <---->
