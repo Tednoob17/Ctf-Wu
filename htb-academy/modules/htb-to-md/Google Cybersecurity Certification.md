@@ -1437,7 +1437,7 @@ logins = "pwashing jhill tshah"
 5. Which  of the following security incidents can have the most damaging impact to ab organization?  
 	A system containing customer PII is compromised
 
-6. A security analyst for an organization notices unusual log activity in an app that was recently
+6. A security analyst for an organization notices unusual log activity in an app that was recently banned from the organization .However, the analyst forgets to escalate this activity to the proper
 
 
 
