@@ -1606,4 +1606,7 @@ logins = "pwashing jhill tshah"
 	- Test your video and audio settings
 	- Find a quiet location in your home
 
-9. 
+9. Why i building rapport important in the job interview process ? Select two answers.
+	- It can help ease
+
+10. 
