@@ -1473,7 +1473,7 @@ logins = "pwashing jhill tshah"
 2. Which security stakeholder helps recognize risks and manage the response to security incidents ?
 	Risk manager
 
-3. 
+3. Fill in the blank: Security operations managers are primarily responsible for helping to identify and 
 
 
 
