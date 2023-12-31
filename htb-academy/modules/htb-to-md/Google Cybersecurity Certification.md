@@ -1613,4 +1613,5 @@ logins = "pwashing jhill tshah"
 
 
 10. A potential candidate is interviewing for a security   analyst role . The candidate says the following when responding to a scenario-based question: "My manager took time off from the organization and nominated me to take their place."  Which part of the STAR method does this response demonstrate ?
-	
+
+	Situation
