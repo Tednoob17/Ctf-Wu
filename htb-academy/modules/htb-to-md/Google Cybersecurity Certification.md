@@ -1738,13 +1738,16 @@ logins = "pwashing jhill tshah"
 	Information that is communicated to stakeholders  is sensitive.
 
 5. Fill in the blank: Communications with stakeholders should always be precise, avoid unnecessary technical terms, and <---->.
+
 	have a clear purpose
 
 
 6. Which of the following is an example of a security event that should communicated to a stakeholder ?
+
 	Malicious code detected in logs.
 
 7. Fill in the blank : Creating <----> communications allows a security stakeholder to view representations of what is being explained using graphs and charts.
+
 	 visual 
 
 
