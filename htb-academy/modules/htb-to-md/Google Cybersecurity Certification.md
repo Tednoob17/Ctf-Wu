@@ -1116,6 +1116,7 @@ examination. On which part of the chain of custody form should they sign their n
 ## Course 7 - Week 1 Automate Cyber security Tasks with python)
 
 1. Fill in the blank: Automation is <---->
+
 	The use of technology to reduce human and manual effort to perform common and repetitive tasks
 
 
@@ -1131,20 +1132,26 @@ count = count + 1
 - The line with `print("Attempting connection")`  is not indented
 
 3. Which of these are string data ? Select all that apply .
+
 	- "100"
 	- "user1"
 
 4. What are possible values for the boolean data type ? Select all that apply.
+
 	- False
 	- True
 
 5. Which line of code assigns the string "dtanaka" to variable called `username` ?
+
 	`username = "dtanaka"` 
 
 6. What code can you use to return the data type of the value stored in the `input` variable ?
+
 	`type (input)`
 
-7. You want to check the string stored in an `update_status` variable . When it contains a value of `"incomplete"`, you want to print a `"schedule update"` message .Right now, this conditional statement is not correct.What are the problems with conditional statement ?Select all that apply .
+7. You want to check the string stored in an `update_status` variable . When it contains a value of `"incomplete"`, you want to print a `"schedule update"` message .Right now, this conditional statement is not correct.What are the problems with conditional 
+statement ?Select all that apply .
+
 ```python3
 if update_status != "incomplete" 
 	print("schedule update")
@@ -1167,6 +1174,7 @@ if the value in the attempts variable is `3` , what will Python do ?
 	Output the message "try again"
 
 9. What iterative statement should you use if you use want to print the number `1` , `2`, `3` ?
+
 	`for i in [1, 2, 3]`
 
 
@@ -1177,11 +1185,13 @@ if the value in the attempts variable is `3` , what will Python do ?
 
 
 1. Which of the following components are part of the header in a function definition ? Select all that apply. 
+
 	- The keyword `def`
 	- The name of the function
 
 
 2. Which of the following calls to the `type ()` function uses correct syntax ?
+
 	`type ([55, 81, 17])` 
 
 
@@ -1207,6 +1217,7 @@ welcome_user(username)
 
 5. What does this line of code return ?
   `print (max (1,3,7))`
+
 	 `7`
 
 6. What is returned from following user-defined function if you pass it the arguments `2` and `3` ?
