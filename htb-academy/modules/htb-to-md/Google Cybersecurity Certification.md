@@ -415,22 +415,25 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	Encrypt data in transit 
 
 6. Fill in the blank: VPN services perform encapsulation to protect sensitive data by <----> it in other data packets.
+
 	wrapping
 
 
 7. What network zone contains the internet and other services that outside of an organization's control ?
+
 	Uncontrolled
 
-8. What network zone acts as a network perimeter to the internal network by isolating servers that 
+8. What network zone acts as a network perimeter to the internal network by isolating servers that .
+
 	Demilitarized zone
 
 9.  A security analyst implements a proxy server to secure internal networks.What are some of the proxy server's primary functions ? Select all that apply.
+
 	- Determine whether request to connect to a website are allowed 
 	- Use public IP addresses that are different from the rest on the private network
 	- Temporarily stores data that is frequently requested by external serves
 
-10. Which of the following statements accurately describe forward and reverse proxy servers ?
-    Select three answers.
+11. Which of the following statements accurately describe forward and reverse proxy servers ? Select three answers.
   
 	- Reverse proxy servers accept traffic form external parties, approve it, then forward it to internal servers.
 	- Forward proxy servers receive outgoing traffic from an employee approve it, then forward it to its destination on the internet .
@@ -446,6 +449,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 1. What is the main objective of a Denial of Service (Dos)  attack  ?
+
 	Disrupt normal business operations
 
 2. Which of the following statements accurately describe Denial of Service (Dos) and Distributed Denial of Service (DDos) attacks ? Select three answers .
@@ -456,26 +460,32 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 3. A security team discovers that an attacker has taken advantage of the handshake process that is used to establish a TCP connection between a device and their sever.Which Dos attack does this scenario describe ?
+
 	SYN flood attack
 
 4. Fill in the blank: The Dos attack <----> occurs when an attacker repeatedly sends ICMP packets to a network server.
+
 	ICMP flood
 
 5. Which of the following statements correctly describe passive and packet sniffing ? Select three answers.
+
 	- Passive packet sniffing allows malicious actors to view the information going in and out of the targeted device .
 	- Active packet sniffing may enable attackers to redirect the packets to unintended ports.
 	- A company can avoid using unprotected Wi-Fi to help protect itself from packet sniffing.
 
 
-6. As a security professional, you take steps to stop an attacker from changing the souce IP of a data packet in order to impersonate your authorized system.What type of network attack are you working to prevent?
+7. As a security professional, you take steps to stop an attacker from changing the souce IP of a data packet in order to impersonate your authorized system.What type of network attack are you working to prevent?
+
 	IP spoofing
 
 7. What are some common IP spoofing attacks ? Select all that apply.
+
 	- On-paths attacks
 	- smurf attacks
 
 
 8. In which attack do malicious actors impersonate a web browser or web server by placing themselves between the devices, then sniffing the packet information to discover their IP and MAC addresses ?
+
 	- Packet flooding attack
 
 9. Fill in the blank: The <----> network attack occurs when a malicious  actor takes a network .
@@ -483,7 +493,8 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	replay
 
 10. Which combination Dos and IP spoofing attack can bring down an entire network by flooding an authorized user's IP address with packets ?
-	Smurf attack 
+
+	 Smurf attack 
 
 
 
