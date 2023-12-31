@@ -1791,7 +1791,8 @@ logins = "pwashing jhill tshah"
 	CSO online
 
 4. Which security resource  provides information on analytics and application security, mobile and cloud security, and the internet of things (IoT)
-	 Dark Reading
+
+	Dark Reading
 
 
 5. Which of the following is a great way to connect with other security professional in the industry ?
