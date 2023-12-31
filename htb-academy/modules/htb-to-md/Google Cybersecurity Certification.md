@@ -1434,7 +1434,7 @@ logins = "pwashing jhill tshah"
 	Improper usage
 
 
-5. Which  of the following security incidents can have the most damaging impact to ab organization?  
+5. Which  of the following security incidents can have the most damaging impact to an organization?  
 	A system containing customer PII is compromised
 
 6. A security analyst for an organization notices unusual log activity in an app that was recently banned from the organization .However, the analyst forgets to escalate this activity to the proper personnel. What potential impact can this small incident have on the organization ?
@@ -1445,16 +1445,15 @@ logins = "pwashing jhill tshah"
 
 	An escalation policy
 
-8. Why is it important for analysts for analysts to follow a company's escalation policy ? Select  two answers .
+8. Why is it important  analysts to follow a company's escalation policy ? Select  two answers .
 	- An escalation policy instructs analysts on the right person to contact during an incident.
 	- An escalation policy can help analysts prioritize which security events needs to be escalated with more or less urgency.
 
 9. Fill in the blank: An entry-level analysts helps the security team make sure the <----> person on the team is alerted when incidents occur.
 	correct 
 
-10. A security analyst receives an alert that someone has gained unauthorized access to a system with PII. Seconds later, the analyst is alerted that an employee has downloaded unapproved  software on their work device. Which incident should be escalated be escalated first ?
-	
-
+10. A security analyst receives an alert that someone has gained unauthorized access to a system with PII . Seconds later, the analyst is alerted that an employee has downloaded unapproved  software on their work device. Which incident should be escalated be escalated first ?
+	The incident involving unauthorized access to the system with PII should be escalated first .
 
 
 
