@@ -1503,8 +1503,7 @@ logins = "pwashing jhill tshah"
 
 	care   
 
-10. What is the best way to follow-up with a stakeholder who  
-
+10. What is the best way to follow-up with a stakeholder who has not immediately responded to your email ? Select two answers.
 
 
 
