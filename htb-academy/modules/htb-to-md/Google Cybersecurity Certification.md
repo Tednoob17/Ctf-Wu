@@ -1487,6 +1487,9 @@ logins = "pwashing jhill tshah"
 
 
 6. Which of the following is an example of a security event that should communicated to a stakeholder ?
+	Malicious code detected in logs.
+
+
 
 
 8. 
