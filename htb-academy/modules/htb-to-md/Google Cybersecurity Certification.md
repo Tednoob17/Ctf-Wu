@@ -1444,6 +1444,7 @@ welcome_user(username)
 
 8. What is an advantage of including this comment in the following code ? Select all that 
 apply.
+
  ```python3
   # For loop iterates to print an alert message 5 times
 
@@ -1499,6 +1500,7 @@ apply.
 	 `[1, 2, 3, "a", "b", "c"]` 
 
 6. What is output of the following code ?
+
 ```python3
 approved_users = ["bmoreno", "elarson", "tshah", "eraab"]
 print(approved_users[1])
@@ -1508,6 +1510,7 @@ print(approved_users[1])
 	"elarson"
  
 7. Fill in the blank: Determining that you need to use string slicing and a `for` loop to extract information from items in a lists is part of creating a(n) <---->
+
 	algorithm
 
 8. What does the `\w` symbol match to in a regular expression ?
