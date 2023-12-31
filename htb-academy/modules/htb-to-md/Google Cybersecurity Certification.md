@@ -971,45 +971,55 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 1. Which of the following statements describe security incidents and events ?
+
 	All security incidents are events,but not all events are security incidents.
 
 
 2.  What process is used to provide a blueprint for effective incident response ?
+
 	The NIST incident Response Lifecycle 
 
 3. Which of following are phases of the NIST incident Response Lifecycle? Select three answers .
+
 	- Containment, Eradication, and Recovery
 	- Detection and Analysis
 	- Preparation
 
 
 4. What is a computer security incident response team (CSIRT) ?
+
 	A specialized group of security professionals who are trained in incident management and response. 
 
 5. What are common elements contained in incident response plans ? Select two answers . 
+
 	- Incident response procedures
 	- System Information
 
 
 6. What are investigative tools used for ?
+
 	Monitoring activity
 
 
 7. What are examples of tools used for documentation ? Select two answers .
+
 	- Audio recorders
 	- Cameras
 
 
 8. Fill in the blank: An intrusion detection system (IDS) <----> system activity and alerts on possible intrusions.
+
 	monitors
 
 
 9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)? 
+
 	 The analysis and response to a security incident
 
 
 
 10. Fill in the blank: During the <-----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
+
 	data collection 
 
 
@@ -1019,26 +1029,32 @@ How many customers live in Mountain View and work for Google Inc ?.
 ## Course 6 - Week 3 (Sound the Alarm,  Detection)
 
 1. A security analyst is investigating an alert involving a possible network intrusion. Which of the tasks is the security analyst likely to perform as part of the Detection and Analysis phase of the incident response lifecycle ? Select two answers.
+
 	- Collect and analyze the network logs to verify the alert.
 	- Identify the affected devices or systems.
 
 
 2. In incident response, documentation provides an established set of guidelines that members of an organization can follow to complete a task.What documentation benefit does this provide ?
+
 	Standardization 
 
 
 3. After a ransomware incident, an organization discovers their ransomware playbook needs improvements.A security analyst is tasked with changing the playbook documentation.Which
    documentation best practice does this scenario highlight ?
+
 	Update regularly
 
 4. A member of the forensics department of an organization receives a computer that requires 
 examination. On which part of the chain of custody form should they sign their name and write the date? 
+
 	Description of the evidence
 
 5. An analyst is responding to a distributed denial of service attack (DDos).They take several manual steps outlined in the organization's DDos playbook.Which type of playbook did they use to respond to the incident ?
+
 	Non-automated
 
 6. What are the step of the triage process in the correct order ?
+
 	Receive and assess, assign priority, collect and analyze
 
 7. Fill in the blank: Containment is the act of limited and <----> additional damage caused by an incident.
