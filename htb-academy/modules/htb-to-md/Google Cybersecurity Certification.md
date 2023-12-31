@@ -4,7 +4,7 @@
 ## Course 1 - Week 1 (Foundations of Cybersecurity)
 
 
-1. Fill in the blank: The purpose of <------> is to protect networks,devices,peoples and data from unauthorized access or criminal exploitation . 
+1. Fill in the blank: The purpose of <------> is to protect networks,devices,peoples and data from unauthorized access or criminal exploitation. 
 
 	Cybersecurity
 
@@ -22,7 +22,7 @@
 
 	Stealing personal information to commit fraud while impersonating a victim. 
 
-5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines .
+5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines.
 
 	avoid
 
@@ -239,7 +239,8 @@
 	- Evaluate whether current controls help achieve business goals
 	- Implement multi-factor authentication
 
-8. Fill in the blank : The software development <---> may involve penetration testing during the deployment and implementation phase of developing software products.
+
+7. Fill in the blank : The software development <---> may involve penetration testing during the deployment and implementation phase of developing software products.
 
 	lifecycle
 
@@ -513,7 +514,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Use public IP addresses that are different from the rest on the private network
 	- Temporarily stores data that is frequently requested by external serves
 
-11. Which of the following statements accurately describe forward and reverse proxy servers ? Select three answers.
+10. Which of the following statements accurately describe forward and reverse proxy servers ? Select three answers.
   
 	- Reverse proxy servers accept traffic form external parties, approve it, then forward it to internal servers.
 	- Forward proxy servers receive outgoing traffic from an employee approve it, then forward it to its destination on the internet .
@@ -774,7 +775,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 	- Add write permissions to the user for the `access.txt` file.
 	- Remove read permissions from the group for the `access.txt` file 
 
-8. A user is not a root user, but needs elevated privileges to use certain commands.What should they do?
+7. A user is not a root user, but needs elevated privileges to use certain commands.What should they do?
 
 	  Use the `sudo` command .
 
@@ -893,32 +894,32 @@ How many customers live in Mountain View and work for Google Inc ?.
 	- E-mail addresses
 	- Customer names
 
-6. What is an example of restricted information ? Select all thst apply .
+5. What is an example of restricted information ? Select all thst apply .
 
 	- Intellectual propriety 
 	- Health information
 	- Cardholder data
 
 
-7. Which of the following can be prevented with effective information security? Select all that apply.
+6. Which of the following can be prevented with effective information security? Select all that apply.
 
 	- Repudiation damage
 	- Identity theft
 	- Financial loss
 
 
-8. What is an example of digital data at rest ? Select two answers.
+7. What is an example of digital data at rest ? Select two answers.
 
 	- Files on a hard drive
 	- Email messages in a inbox 
 
-9.  What are some key benefits of a security plan? Select three answers . 
+8.  What are some key benefits of a security plan? Select three answers . 
 
 	- Define consistent policies that address what's being protected and why .
 	- Outline clear procedures that describe how to protect assets ans reat to threats .
 	- Establish a shared set of standards for protecting assets . 
 
-10. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
+9. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
 
 	Level-4
 
@@ -1330,6 +1331,7 @@ examination. On which part of the chain of custody form should they sign their n
 
 
 2. The purpose of the following code is to print an "Attempting connection" message while the value of count variable is less than `10` .The value of count should increase by `1` with each iteration of the loop.What is wrong with the code ? Select all that apply.
+
 ```python3
 count = 1
 while count < 10:
