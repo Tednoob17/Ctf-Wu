@@ -28,9 +28,11 @@
 	management
 
 8. A security professional receives an alert about an unknown user accessing a system within their organization .They attempt to identify, analyze, and preserve the associated criminal evidence .What security task does this scenario describe ?
+
 	Computers forensics 
 
 9. Which of the following statements accurately describe personally identifiable information (PII) and sensitive identifiable information (SPII) ? Select all that apply
+
 	- Both PII and SPII are vulnerable to identity theft .
 	- An example of PII is someone's date of birth . 
 	- An example of SPII is someone financial information .
@@ -44,9 +46,11 @@
 
 
 1. What is the term for software that is designed to harm devices or networks ? 
+
 	Malware
 
 2. What historical event used a malware attachment to steal user information and passwords ?
+
 	LoveLetter attack
 
 3. Fill in the blank: Social engineering is a manipulation technique that exploits <----> error to gain access to private information . 
