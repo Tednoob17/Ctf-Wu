@@ -1292,6 +1292,7 @@ print(approved_users[1])
 	 `re` 
 
 10.  What does the code `device_ids.append("h32rb17")` do ?
+
 	Adds `"h32rb17"` to the end of the `device_ids` list
 
 
@@ -1300,6 +1301,7 @@ print(approved_users[1])
 ## Course 7 - Week 4 Automate Cyber security Tasks with python)
 
 1. What is debugging ?
+
 	The practice of identifying and fixing errors in code.  
 
 
@@ -1328,10 +1330,13 @@ for user in list:
 	Change the != operator to the == operator in the conditional. 
 
 4. You included `username_list[10]` in your code, but `username_list` only contains five elements.What type of error is this ?
+
+
 	Exception
 
 
 5. Why might you use print statements when debugging code ?
+
 	To identify which sections of the code are working properly .
 
 
@@ -1351,6 +1356,7 @@ logins = "pwashing jhill tshah"
 - Split a string called `logins` into a list of strings and stores it in the variable `usernames` .
 
 8. What is parsing ? 
+
 	The process of converting data into a more readable format.
 
 
@@ -1361,6 +1367,7 @@ logins = "pwashing jhill tshah"
 
 
 10. You want to check for unusual login activity.Specially, you want to read a log file that contains information on each login attempt, including whether it failed or was successful. You should then parse the data into a `logins` list, and then you  should separate all failed log entries into a separate `failed_logins` list.If you want to automate this through Python, what would be part of your code ? Select  three answers.
+
 	- A `split ()` function to split the login information into  a list.
 	- A `for` loop to iterate through all items in the  `logins` list 
 
