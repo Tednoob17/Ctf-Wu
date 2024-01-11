@@ -1,0 +1,2 @@
+- Finish all tier 0 modules
+- Pay 200 cubes 
