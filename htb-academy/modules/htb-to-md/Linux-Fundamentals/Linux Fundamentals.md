@@ -248,6 +248,7 @@ man curl
 
 ```
 
+
 ```shell
 curl(1)                                                             Curl Manual                                                            curl(1)
 
@@ -277,6 +278,7 @@ After looking at some examples, we can also quickly look at the optional paramet
 <tool> --help
 
 ```
+
 
 #### Example:
 
@@ -320,7 +322,6 @@ Usage: curl [options...] <url>
 <SNIP>
 
 ```
-
 As we can see, the results from each other do not differ in this example. Another tool that can be useful in the beginning is `apropos`. Each manual page has a short description available within it. This tool searches the descriptions for instances of a given keyword.
 
 #### Syntax:
